@@ -1,0 +1,6914 @@
+[
+    {
+        "property_id": 9567,
+        "lat": -37.853324,
+        "lng": 144.717306,
+        "addr_street": "5 Keats Court"
+    },
+    {
+        "property_id": 85576,
+        "lat": -37.881875,
+        "lng": 145.000057,
+        "addr_street": "37 Gordon Street"
+    },
+    {
+        "property_id": 57242,
+        "lat": -37.827333,
+        "lng": 145.076323,
+        "addr_street": "30 Maling Road"
+    },
+    {
+        "property_id": 88038,
+        "lat": -37.941966,
+        "lng": 145.054341,
+        "addr_street": "1/51 Bulli Street"
+    },
+    {
+        "property_id": 49139,
+        "lat": -37.803613,
+        "lng": 145.082512,
+        "addr_street": "19 Kaleno View"
+    },
+    {
+        "property_id": 78619,
+        "lat": -37.951845,
+        "lng": 145.159144,
+        "addr_street": "14 Eighth Boulevard"
+    },
+    {
+        "property_id": 85494,
+        "lat": -37.883182,
+        "lng": 145.007392,
+        "addr_street": "3 Curral Road"
+    },
+    {
+        "property_id": 31792,
+        "lat": -37.750918,
+        "lng": 145.017768,
+        "addr_street": "121 Raglan Street"
+    },
+    {
+        "property_id": 62340,
+        "lat": -37.80385,
+        "lng": 145.239756,
+        "addr_street": "81 Sonia Street"
+    },
+    {
+        "property_id": 82908,
+        "lat": -37.90602,
+        "lng": 145.256244,
+        "addr_street": "80 Karoo Road"
+    },
+    {
+        "property_id": 30662,
+        "lat": -37.758038,
+        "lng": 144.989003,
+        "addr_street": "124 Normanby Avenue"
+    },
+    {
+        "property_id": 28164,
+        "lat": -37.8037389,
+        "lng": 144.976394,
+        "addr_street": "2/175 Fitzroy Street"
+    },
+    {
+        "property_id": 30924,
+        "lat": -37.7566452,
+        "lng": 144.9992523,
+        "addr_street": "20 Harold Street"
+    },
+    {
+        "property_id": 67311,
+        "lat": -37.757514,
+        "lng": 145.342686,
+        "addr_street": "2F John Street"
+    },
+    {
+        "property_id": 41748,
+        "lat": -37.740477,
+        "lng": 145.068736,
+        "addr_street": "183 Lower Plenty Road"
+    },
+    {
+        "property_id": 87942,
+        "lat": -37.93956,
+        "lng": 145.009649,
+        "addr_street": "76 Thomas Street"
+    },
+    {
+        "property_id": 43510,
+        "lat": -37.712314,
+        "lng": 145.076609,
+        "addr_street": "16 Leafield Street"
+    },
+    {
+        "property_id": 13679,
+        "lat": -37.750887,
+        "lng": 144.915285,
+        "addr_street": "1008 Mt Alexander Road"
+    },
+    {
+        "property_id": 25205,
+        "lat": -37.583855,
+        "lng": 144.908345,
+        "addr_street": "12 Folger Road"
+    },
+    {
+        "property_id": 23301,
+        "lat": -37.74710083,
+        "lng": 144.9636536,
+        "addr_street": "9b Methven Street"
+    },
+    {
+        "property_id": 45148,
+        "lat": -37.706794,
+        "lng": 145.08925,
+        "addr_street": "486 Greensborough Road"
+    },
+    {
+        "property_id": 24655,
+        "lat": -37.677756,
+        "lng": 144.966584,
+        "addr_street": "14 CAMBRIDGE WAY"
+    },
+    {
+        "property_id": 51439,
+        "lat": -37.7928036,
+        "lng": 145.1257471,
+        "addr_street": "45 Tram Road"
+    },
+    {
+        "property_id": 17789,
+        "lat": -37.710356,
+        "lng": 144.938073,
+        "addr_street": "86 West Street"
+    },
+    {
+        "property_id": 53833,
+        "lat": -37.82254028,
+        "lng": 145.0130463,
+        "addr_street": "82 Yarra Boulevard"
+    },
+    {
+        "property_id": 93925,
+        "lat": -38.071522,
+        "lng": 145.120619,
+        "addr_street": "4/602 Nepean Highway"
+    },
+    {
+        "property_id": 87636,
+        "lat": -37.943064,
+        "lng": 145.001817,
+        "addr_street": "320 Hampton Street"
+    },
+    {
+        "property_id": 33011,
+        "lat": -37.745178,
+        "lng": 145.012239,
+        "addr_street": "6 Erval Avenue"
+    },
+    {
+        "property_id": 53233,
+        "lat": -37.819616,
+        "lng": 144.999946,
+        "addr_street": "4 Tullo Place"
+    },
+    {
+        "property_id": 87855,
+        "lat": -37.931471,
+        "lng": 145.014003,
+        "addr_street": "6 Kingston Street"
+    },
+    {
+        "property_id": 87658,
+        "lat": -37.935738,
+        "lng": 145.001339,
+        "addr_street": "36 Grenville Street"
+    },
+    {
+        "property_id": 84032,
+        "lat": -37.854195,
+        "lng": 144.995264,
+        "addr_street": "44 Duke Street"
+    },
+    {
+        "property_id": 28110,
+        "lat": -37.800677,
+        "lng": 144.978742,
+        "addr_street": "15 Kent Street"
+    },
+    {
+        "property_id": 95555,
+        "lat": -37.92292786,
+        "lng": 145.0364533,
+        "addr_street": "33 Bendigo Avenue"
+    },
+    {
+        "property_id": 17342,
+        "lat": -37.707834,
+        "lng": 144.907961,
+        "addr_street": "49 William Street"
+    },
+    {
+        "property_id": 64823,
+        "lat": -37.804622,
+        "lng": 145.301712,
+        "addr_street": "7 ST ANDREWS MEWS (enter at 118 Dorset Rd)"
+    },
+    {
+        "property_id": 37296,
+        "lat": -37.639265,
+        "lng": 145.052316,
+        "addr_street": "310 Findon Road"
+    },
+    {
+        "property_id": 59141,
+        "lat": -37.81176758,
+        "lng": 145.1787567,
+        "addr_street": "8 Stuart Crescent"
+    },
+    {
+        "property_id": 55336,
+        "lat": -37.846434,
+        "lng": 145.083103,
+        "addr_street": "234 Highfield Road"
+    },
+    {
+        "property_id": 6931,
+        "lat": -37.789869,
+        "lng": 144.823955,
+        "addr_street": "7 Armstrong Street"
+    },
+    {
+        "property_id": 23791,
+        "lat": -37.641457,
+        "lng": 144.909549,
+        "addr_street": "8 Annandale Mews"
+    },
+    {
+        "property_id": 74736,
+        "lat": -37.889567,
+        "lng": 145.072905,
+        "addr_street": "2 Astolat Avenue"
+    },
+    {
+        "property_id": 90969,
+        "lat": -37.96417618,
+        "lng": 145.0543823,
+        "addr_street": "7 Maude Street"
+    },
+    {
+        "property_id": 32512,
+        "lat": -37.737752,
+        "lng": 145.022489,
+        "addr_street": "29 Kathleen Street"
+    },
+    {
+        "property_id": 70996,
+        "lat": -37.850639,
+        "lng": 145.231564,
+        "addr_street": "10 Chichester Square"
+    },
+    {
+        "property_id": 34253,
+        "lat": -37.722323,
+        "lng": 145.01656,
+        "addr_street": "20 Mendip Road"
+    },
+    {
+        "property_id": 9281,
+        "lat": -37.84741592,
+        "lng": 144.7267609,
+        "addr_street": "12 Harrow Place"
+    },
+    {
+        "property_id": 74820,
+        "lat": -37.9030604,
+        "lng": 145.0609507,
+        "addr_street": "22 Boake Street"
+    },
+    {
+        "property_id": 66493,
+        "lat": -37.764073,
+        "lng": 145.319297,
+        "addr_street": "50 Savanna Drive"
+    },
+    {
+        "property_id": 66664,
+        "lat": -37.76599884,
+        "lng": 145.3325195,
+        "addr_street": "7 Quest Court"
+    },
+    {
+        "property_id": 34048,
+        "lat": -37.708117,
+        "lng": 144.992502,
+        "addr_street": "18 Ida Court"
+    },
+    {
+        "property_id": 65800,
+        "lat": -37.788083,
+        "lng": 145.315231,
+        "addr_street": "15 Reay Road"
+    },
+    {
+        "property_id": 2774,
+        "lat": -37.8142395,
+        "lng": 144.8692322,
+        "addr_street": "123 Roberts Street"
+    },
+    {
+        "property_id": 3213,
+        "lat": -37.82062149,
+        "lng": 144.8807526,
+        "addr_street": "26 Bena Street"
+    },
+    {
+        "property_id": 41916,
+        "lat": -37.76740646,
+        "lng": 145.0552368,
+        "addr_street": "24 Hopetoun Grove"
+    },
+    {
+        "property_id": 55251,
+        "lat": -37.835837,
+        "lng": 145.056782,
+        "addr_street": "2/57 Seymour Grove"
+    },
+    {
+        "property_id": 26825,
+        "lat": -37.582855,
+        "lng": 144.920324,
+        "addr_street": "4 Naracoorte Avenue"
+    },
+    {
+        "property_id": 96009,
+        "lat": -37.920741,
+        "lng": 145.050172,
+        "addr_street": "6 Bardolph court"
+    },
+    {
+        "property_id": 64102,
+        "lat": -37.773271,
+        "lng": 145.294459,
+        "addr_street": "28 Dorset Road"
+    },
+    {
+        "property_id": 37040,
+        "lat": -37.64646,
+        "lng": 145.020596,
+        "addr_street": "2/112 Houston Street"
+    },
+    {
+        "property_id": 41610,
+        "lat": -37.735224,
+        "lng": 145.060955,
+        "addr_street": "141 Mountain View Parade"
+    },
+    {
+        "property_id": 87204,
+        "lat": -37.9306483,
+        "lng": 144.9933583,
+        "addr_street": "9 New Street"
+    },
+    {
+        "property_id": 32422,
+        "lat": -37.73801422,
+        "lng": 145.0059357,
+        "addr_street": "252 Murray Road"
+    },
+    {
+        "property_id": 24085,
+        "lat": -37.701355,
+        "lng": 144.96074,
+        "addr_street": "179 Jukes Road"
+    },
+    {
+        "property_id": 24105,
+        "lat": -37.705714,
+        "lng": 144.973559,
+        "addr_street": "18 Victory Street"
+    },
+    {
+        "property_id": 4909,
+        "lat": -37.856625,
+        "lng": 144.820234,
+        "addr_street": "142 Grieve Parade"
+    },
+    {
+        "property_id": 10440,
+        "lat": -37.78474426,
+        "lng": 144.9247284,
+        "addr_street": "34 Illawarra Road"
+    },
+    {
+        "property_id": 13646,
+        "lat": -37.754818,
+        "lng": 144.913803,
+        "addr_street": "1/22a Violet Street"
+    },
+    {
+        "property_id": 82243,
+        "lat": -37.983542,
+        "lng": 145.238892,
+        "addr_street": "5 Conferta Crescent"
+    },
+    {
+        "property_id": 49505,
+        "lat": -37.809627,
+        "lng": 145.089171,
+        "addr_street": "41 Kireep Road"
+    },
+    {
+        "property_id": 96596,
+        "lat": -37.997327,
+        "lng": 145.269287,
+        "addr_street": "2 Alice Court"
+    },
+    {
+        "property_id": 24375,
+        "lat": -37.708389,
+        "lng": 144.971422,
+        "addr_street": "39 Frederick Street"
+    },
+    {
+        "property_id": 52899,
+        "lat": -37.821587,
+        "lng": 145.000886,
+        "addr_street": "29 Brougham Street"
+    },
+    {
+        "property_id": 83803,
+        "lat": -37.856419,
+        "lng": 145.0089,
+        "addr_street": "28 Kelvin Grove"
+    },
+    {
+        "property_id": 42344,
+        "lat": -37.75968552,
+        "lng": 145.0619049,
+        "addr_street": "50 Castle Street"
+    },
+    {
+        "property_id": 61633,
+        "lat": -37.804859,
+        "lng": 145.233868,
+        "addr_street": "25A Mullum Mullum Road"
+    },
+    {
+        "property_id": 84757,
+        "lat": -37.886559,
+        "lng": 144.998095,
+        "addr_street": "20 Rusden Street"
+    },
+    {
+        "property_id": 85990,
+        "lat": -37.925391,
+        "lng": 144.988708,
+        "addr_street": "11 Canterbury Place"
+    },
+    {
+        "property_id": 74099,
+        "lat": -37.86307144,
+        "lng": 145.2962799,
+        "addr_street": "Lot 12,13 Boronia Road"
+    },
+    {
+        "property_id": 4104,
+        "lat": -37.82576,
+        "lng": 144.87288,
+        "addr_street": "13 Ferguson Street"
+    },
+    {
+        "property_id": 53116,
+        "lat": -37.81643,
+        "lng": 145.006381,
+        "addr_street": "353 Highett Street"
+    },
+    {
+        "property_id": 8411,
+        "lat": -37.751937,
+        "lng": 144.780135,
+        "addr_street": "3 Vince Stella Road"
+    },
+    {
+        "property_id": 71368,
+        "lat": -37.84134293,
+        "lng": 145.223465,
+        "addr_street": "2A Toni Court"
+    },
+    {
+        "property_id": 22080,
+        "lat": -37.74723053,
+        "lng": 144.9495087,
+        "addr_street": "169 Reynard Street"
+    },
+    {
+        "property_id": 71912,
+        "lat": -37.837902,
+        "lng": 145.260887,
+        "addr_street": "1/10 Maida Avenue"
+    },
+    {
+        "property_id": 30196,
+        "lat": -37.763867,
+        "lng": 144.993046,
+        "addr_street": "51 Emmaline Street"
+    },
+    {
+        "property_id": 48700,
+        "lat": -37.800508,
+        "lng": 145.035515,
+        "addr_street": "70 Pakington Street"
+    },
+    {
+        "property_id": 15696,
+        "lat": -37.742254,
+        "lng": 144.887712,
+        "addr_street": "33 Coghlan Street"
+    },
+    {
+        "property_id": 48067,
+        "lat": -37.80226517,
+        "lng": 145.0423431,
+        "addr_street": "2/471 High Street"
+    },
+    {
+        "property_id": 47773,
+        "lat": -37.804935,
+        "lng": 145.032593,
+        "addr_street": "11-13 Peel Street"
+    },
+    {
+        "property_id": 17548,
+        "lat": -37.69838,
+        "lng": 144.945042,
+        "addr_street": "63 John Street"
+    },
+    {
+        "property_id": 20552,
+        "lat": -37.762824,
+        "lng": 144.952737,
+        "addr_street": "148 Hope Street"
+    },
+    {
+        "property_id": 63510,
+        "lat": -37.7877121,
+        "lng": 145.2739105,
+        "addr_street": "130 Maroondah Highway"
+    },
+    {
+        "property_id": 36,
+        "lat": -37.820626,
+        "lng": 144.967716,
+        "addr_street": "43/28 Southgate Ave"
+    },
+    {
+        "property_id": 60460,
+        "lat": -37.845098,
+        "lng": 145.186314,
+        "addr_street": "130 Jolimont Road"
+    },
+    {
+        "property_id": 66164,
+        "lat": -37.769968,
+        "lng": 145.315063,
+        "addr_street": "3 Blueberry Road"
+    },
+    {
+        "property_id": 33735,
+        "lat": -37.707757,
+        "lng": 144.993217,
+        "addr_street": "123 Broadhurst Avenue"
+    },
+    {
+        "property_id": 47063,
+        "lat": -37.710874,
+        "lng": 145.170273,
+        "addr_street": "33 Onkara Court"
+    },
+    {
+        "property_id": 64061,
+        "lat": -37.794659,
+        "lng": 145.290408,
+        "addr_street": "262 DORSET ROAD"
+    },
+    {
+        "property_id": 47799,
+        "lat": -37.811879,
+        "lng": 145.022723,
+        "addr_street": "12 Bowen Street"
+    },
+    {
+        "property_id": 4146,
+        "lat": -37.848787,
+        "lng": 144.868765,
+        "addr_street": "15 Railway Parade"
+    },
+    {
+        "property_id": 12699,
+        "lat": -37.71061,
+        "lng": 144.769009,
+        "addr_street": "22 Mankina Circuit"
+    },
+    {
+        "property_id": 39505,
+        "lat": -37.682867,
+        "lng": 145.05789,
+        "addr_street": "112 Betula Avenue"
+    },
+    {
+        "property_id": 33359,
+        "lat": -37.701585,
+        "lng": 145.023076,
+        "addr_street": "1 Dumbarton Street"
+    },
+    {
+        "property_id": 56329,
+        "lat": -37.844561,
+        "lng": 145.120367,
+        "addr_street": "2 Kilsyth Avenue"
+    },
+    {
+        "property_id": 56116,
+        "lat": -37.854732,
+        "lng": 145.12064,
+        "addr_street": "10 Leonard Street"
+    },
+    {
+        "property_id": 69442,
+        "lat": -37.86711,
+        "lng": 145.10189,
+        "addr_street": "108 High Street Road"
+    },
+    {
+        "property_id": 53511,
+        "lat": -37.814555,
+        "lng": 145.002729,
+        "addr_street": "57A Kent Street"
+    },
+    {
+        "property_id": 8521,
+        "lat": -37.762053,
+        "lng": 144.798167,
+        "addr_street": "44 Brookglen Boulevard"
+    },
+    {
+        "property_id": 69373,
+        "lat": -37.864936,
+        "lng": 145.099559,
+        "addr_street": "1 Shelley Court"
+    },
+    {
+        "property_id": 54138,
+        "lat": -37.82476,
+        "lng": 145.026022,
+        "addr_street": "153 Power Street"
+    },
+    {
+        "property_id": 89255,
+        "lat": -37.95759,
+        "lng": 145.0086802,
+        "addr_street": "168 Beach Road"
+    },
+    {
+        "property_id": 15733,
+        "lat": -37.741421,
+        "lng": 144.887506,
+        "addr_street": "39 Nolan Street"
+    },
+    {
+        "property_id": 51061,
+        "lat": -37.78993607,
+        "lng": 145.109314,
+        "addr_street": "22 Gray Street"
+    },
+    {
+        "property_id": 12773,
+        "lat": -37.698304,
+        "lng": 144.750922,
+        "addr_street": "25 Pimelea Way"
+    },
+    {
+        "property_id": 16404,
+        "lat": -37.702449,
+        "lng": 144.927411,
+        "addr_street": "12 Glen Street"
+    },
+    {
+        "property_id": 35566,
+        "lat": -37.72437668,
+        "lng": 145.0153046,
+        "addr_street": "77 Oakhill Avenue"
+    },
+    {
+        "property_id": 58208,
+        "lat": -37.816401,
+        "lng": 145.163293,
+        "addr_street": "54 Goodwin Street"
+    },
+    {
+        "property_id": 79655,
+        "lat": -37.982407,
+        "lng": 145.162032,
+        "addr_street": "14 Emmerson Street"
+    },
+    {
+        "property_id": 68435,
+        "lat": -37.859962,
+        "lng": 145.0267,
+        "addr_street": "29 Barkly Avenue"
+    },
+    {
+        "property_id": 34088,
+        "lat": -37.721384,
+        "lng": 144.999318,
+        "addr_street": "19 Coleman Crescent"
+    },
+    {
+        "property_id": 32746,
+        "lat": -37.752223,
+        "lng": 145.013974,
+        "addr_street": "4/16 Sussex Street"
+    },
+    {
+        "property_id": 86500,
+        "lat": -37.924955,
+        "lng": 144.99956,
+        "addr_street": "3 Arthur Avenue"
+    },
+    {
+        "property_id": 27021,
+        "lat": -37.584361,
+        "lng": 144.937501,
+        "addr_street": "47 Princess Circuit"
+    },
+    {
+        "property_id": 25922,
+        "lat": -37.58908081,
+        "lng": 144.9312592,
+        "addr_street": "20 WOODLEA CRESCENT"
+    },
+    {
+        "property_id": 1012,
+        "lat": -37.805177,
+        "lng": 144.885251,
+        "addr_street": "41 Williamstown Road"
+    },
+    {
+        "property_id": 92250,
+        "lat": -37.976895,
+        "lng": 145.058043,
+        "addr_street": "35 Patty Street"
+    },
+    {
+        "property_id": 43069,
+        "lat": -37.718602,
+        "lng": 145.05965,
+        "addr_street": "3 Hideaway Turn"
+    },
+    {
+        "property_id": 68466,
+        "lat": -37.860445,
+        "lng": 145.026511,
+        "addr_street": "30 Barkly Avenue"
+    },
+    {
+        "property_id": 37870,
+        "lat": -37.6313591,
+        "lng": 145.0337677,
+        "addr_street": "92 Maserati Drive"
+    },
+    {
+        "property_id": 92982,
+        "lat": -38.001419,
+        "lng": 145.080133,
+        "addr_street": "21 Rosella Road"
+    },
+    {
+        "property_id": 10876,
+        "lat": -37.796091,
+        "lng": 144.927637,
+        "addr_street": "79 Gower Street"
+    },
+    {
+        "property_id": 68006,
+        "lat": -37.839764,
+        "lng": 145.0303382,
+        "addr_street": "26 Warra Street"
+    },
+    {
+        "property_id": 23239,
+        "lat": -37.742901,
+        "lng": 144.953803,
+        "addr_street": "9 Bellevue Street"
+    },
+    {
+        "property_id": 66752,
+        "lat": -37.769106,
+        "lng": 145.320997,
+        "addr_street": "9 Coombah Court"
+    },
+    {
+        "property_id": 31571,
+        "lat": -37.75662,
+        "lng": 144.992621,
+        "addr_street": "98 Smith Street"
+    },
+    {
+        "property_id": 25077,
+        "lat": -37.598068,
+        "lng": 144.903862,
+        "addr_street": "109 Waterview Boulevard"
+    },
+    {
+        "property_id": 42973,
+        "lat": -37.714997,
+        "lng": 145.067502,
+        "addr_street": "21 Bella Vista Close"
+    },
+    {
+        "property_id": 38831,
+        "lat": -37.758671,
+        "lng": 145.049503,
+        "addr_street": "32 Lantana Street"
+    },
+    {
+        "property_id": 82664,
+        "lat": -37.900862,
+        "lng": 145.279953,
+        "addr_street": "22 Monbulk Crescent"
+    },
+    {
+        "property_id": 74426,
+        "lat": -37.901447,
+        "lng": 145.071341,
+        "addr_street": "1 Kirkham Road"
+    },
+    {
+        "property_id": 5952,
+        "lat": -37.786642,
+        "lng": 144.841854,
+        "addr_street": "1 McGrath Street"
+    },
+    {
+        "property_id": 86959,
+        "lat": -37.917987,
+        "lng": 144.996492,
+        "addr_street": "62 Well Street"
+    },
+    {
+        "property_id": 67962,
+        "lat": -37.834761,
+        "lng": 145.007214,
+        "addr_street": "21 Cloverdale Avenue"
+    },
+    {
+        "property_id": 85591,
+        "lat": -37.887565,
+        "lng": 145.006124,
+        "addr_street": "38 Orrong Road"
+    },
+    {
+        "property_id": 72876,
+        "lat": -37.844895,
+        "lng": 145.287925,
+        "addr_street": "12 Bellevue Court"
+    },
+    {
+        "property_id": 40324,
+        "lat": -37.713928,
+        "lng": 145.053534,
+        "addr_street": "3 Sanctuary Drive"
+    },
+    {
+        "property_id": 31503,
+        "lat": -37.75479126,
+        "lng": 144.990387,
+        "addr_street": "84 Hutton Street"
+    },
+    {
+        "property_id": 36328,
+        "lat": -37.664902,
+        "lng": 145.032754,
+        "addr_street": "246  Darebin Drive"
+    },
+    {
+        "property_id": 41081,
+        "lat": -37.703385,
+        "lng": 145.053337,
+        "addr_street": "7 Mt Cooper Drive"
+    },
+    {
+        "property_id": 54212,
+        "lat": -37.831904,
+        "lng": 145.037884,
+        "addr_street": "2 Crossakiel Court"
+    },
+    {
+        "property_id": 27875,
+        "lat": -37.573757,
+        "lng": 144.912368,
+        "addr_street": "9  Bottlebrush Road"
+    },
+    {
+        "property_id": 37933,
+        "lat": -37.775595,
+        "lng": 145.016045,
+        "addr_street": "108 Rathmines Street"
+    },
+    {
+        "property_id": 65472,
+        "lat": -37.795355,
+        "lng": 145.313952,
+        "addr_street": "68 Hawthory Road"
+    },
+    {
+        "property_id": 30979,
+        "lat": -37.756966,
+        "lng": 144.998745,
+        "addr_street": "23 Harold Street"
+    },
+    {
+        "property_id": 20193,
+        "lat": -37.7981582,
+        "lng": 144.9714915,
+        "addr_street": "46 Macarthur Place"
+    },
+    {
+        "property_id": 13218,
+        "lat": -37.716742,
+        "lng": 144.768404,
+        "addr_street": "5 Cottrell Court"
+    },
+    {
+        "property_id": 84392,
+        "lat": -37.853776,
+        "lng": 145.003097,
+        "addr_street": "8 Russell Street"
+    },
+    {
+        "property_id": 83491,
+        "lat": -37.84810257,
+        "lng": 144.9888458,
+        "addr_street": "13 Moss Street"
+    },
+    {
+        "property_id": 18744,
+        "lat": -37.693193,
+        "lng": 144.917335,
+        "addr_street": "35 Waverley Street"
+    },
+    {
+        "property_id": 14428,
+        "lat": -37.747622,
+        "lng": 144.913202,
+        "addr_street": "4/3 Sturt Street"
+    },
+    {
+        "property_id": 33754,
+        "lat": -37.722323,
+        "lng": 145.01651,
+        "addr_street": "13 Acheron Avenue"
+    },
+    {
+        "property_id": 18907,
+        "lat": -37.688739,
+        "lng": 144.92297,
+        "addr_street": "46 Walsh Street"
+    },
+    {
+        "property_id": 13586,
+        "lat": -37.709381,
+        "lng": 144.772551,
+        "addr_street": "9 Rose Hedge Drive"
+    },
+    {
+        "property_id": 64090,
+        "lat": -37.782899,
+        "lng": 145.293992,
+        "addr_street": "27-29 Morgan Avenue"
+    },
+    {
+        "property_id": 95761,
+        "lat": -37.910174,
+        "lng": 145.028526,
+        "addr_street": "40 McKinnon Road"
+    },
+    {
+        "property_id": 37698,
+        "lat": -37.65172195,
+        "lng": 145.0358582,
+        "addr_street": "7 Henry Court"
+    },
+    {
+        "property_id": 38432,
+        "lat": -37.777315,
+        "lng": 145.016446,
+        "addr_street": "73  Rathmines Street"
+    },
+    {
+        "property_id": 21058,
+        "lat": -37.775659,
+        "lng": 144.959039,
+        "addr_street": "321 Barkly Street"
+    },
+    {
+        "property_id": 78417,
+        "lat": -37.928198,
+        "lng": 145.156131,
+        "addr_street": "859 Springvale Road"
+    },
+    {
+        "property_id": 50411,
+        "lat": -37.763648,
+        "lng": 145.09934,
+        "addr_street": "80 Swanston Street"
+    },
+    {
+        "property_id": 234,
+        "lat": -37.797759,
+        "lng": 144.884757,
+        "addr_street": "113 Eleanor Street"
+    },
+    {
+        "property_id": 69123,
+        "lat": -37.86138,
+        "lng": 145.039277,
+        "addr_street": "39 Horace Street"
+    },
+    {
+        "property_id": 46270,
+        "lat": -37.718649,
+        "lng": 145.113553,
+        "addr_street": "85 Para Road"
+    },
+    {
+        "property_id": 82822,
+        "lat": -37.91336823,
+        "lng": 145.2556763,
+        "addr_street": "52 Colorado Crescent"
+    },
+    {
+        "property_id": 55890,
+        "lat": -37.838752,
+        "lng": 145.087629,
+        "addr_street": "7 Cornell Street"
+    },
+    {
+        "property_id": 52034,
+        "lat": -37.82102,
+        "lng": 144.991242,
+        "addr_street": "1 Loughnan Street"
+    },
+    {
+        "property_id": 22293,
+        "lat": -37.735574,
+        "lng": 144.960555,
+        "addr_street": "21 May Street"
+    },
+    {
+        "property_id": 36877,
+        "lat": -37.639007,
+        "lng": 145.051209,
+        "addr_street": "15 Dransfield Way"
+    },
+    {
+        "property_id": 62599,
+        "lat": -37.823295,
+        "lng": 145.249777,
+        "addr_street": "162  Bedford Road"
+    },
+    {
+        "property_id": 17028,
+        "lat": -37.701489,
+        "lng": 144.932151,
+        "addr_street": "3/54-56 Isla Avenue"
+    },
+    {
+        "property_id": 45321,
+        "lat": -37.7181015,
+        "lng": 145.1009827,
+        "addr_street": "6 Gladman Street"
+    },
+    {
+        "property_id": 60844,
+        "lat": -37.84504318,
+        "lng": 145.1901703,
+        "addr_street": "6 Bayliss Place"
+    },
+    {
+        "property_id": 53379,
+        "lat": -37.813706,
+        "lng": 145.006828,
+        "addr_street": "48 Leslie Street"
+    },
+    {
+        "property_id": 76734,
+        "lat": -37.921931,
+        "lng": 145.110647,
+        "addr_street": "28 View Street"
+    },
+    {
+        "property_id": 95638,
+        "lat": -37.90907288,
+        "lng": 145.0469818,
+        "addr_street": "36 Lewis Street"
+    },
+    {
+        "property_id": 48957,
+        "lat": -37.803864,
+        "lng": 145.074604,
+        "addr_street": "12 Bernborough Avenue"
+    },
+    {
+        "property_id": 17201,
+        "lat": -37.710871,
+        "lng": 144.936813,
+        "addr_street": "4 Truscott Street"
+    },
+    {
+        "property_id": 28629,
+        "lat": -37.795416,
+        "lng": 144.987429,
+        "addr_street": "46 Mater Street"
+    },
+    {
+        "property_id": 31456,
+        "lat": -37.755946,
+        "lng": 145.023236,
+        "addr_street": "76 Alston Court"
+    },
+    {
+        "property_id": 72174,
+        "lat": -37.84075,
+        "lng": 145.258487,
+        "addr_street": "2/7 Violen Street"
+    },
+    {
+        "property_id": 4734,
+        "lat": -37.826344,
+        "lng": 144.8752,
+        "addr_street": "90 The Avenue"
+    },
+    {
+        "property_id": 50288,
+        "lat": -37.7683695,
+        "lng": 145.0820672,
+        "addr_street": "5 Yarraleen Place"
+    },
+    {
+        "property_id": 27886,
+        "lat": -37.581571,
+        "lng": 144.91688,
+        "addr_street": "9 Belair Close"
+    },
+    {
+        "property_id": 46747,
+        "lat": -37.695949,
+        "lng": 145.168553,
+        "addr_street": "19 Cityview Court"
+    },
+    {
+        "property_id": 15484,
+        "lat": -37.74184418,
+        "lng": 144.9225617,
+        "addr_street": "8 Columban Avenue"
+    },
+    {
+        "property_id": 12327,
+        "lat": -37.710944,
+        "lng": 144.775462,
+        "addr_street": "14 Marylou Court"
+    },
+    {
+        "property_id": 1232,
+        "lat": -37.792581,
+        "lng": 144.882661,
+        "addr_street": "59 Summerhill Road"
+    },
+    {
+        "property_id": 3210,
+        "lat": -37.814997,
+        "lng": 144.867631,
+        "addr_street": "25A Sanderson Street"
+    },
+    {
+        "property_id": 68633,
+        "lat": -37.85181046,
+        "lng": 145.0226135,
+        "addr_street": "7 Erskine Street"
+    },
+    {
+        "property_id": 64894,
+        "lat": -37.78138,
+        "lng": 145.29389,
+        "addr_street": "8 Parsons Street"
+    },
+    {
+        "property_id": 32866,
+        "lat": -37.742763,
+        "lng": 145.002168,
+        "addr_street": "5 Bruce Street"
+    },
+    {
+        "property_id": 97104,
+        "lat": -38.01727676,
+        "lng": 145.2815704,
+        "addr_street": "93 Hinrichsen Drive"
+    },
+    {
+        "property_id": 6663,
+        "lat": -37.779122,
+        "lng": 144.81807,
+        "addr_street": "36 Derrimut Street"
+    },
+    {
+        "property_id": 7951,
+        "lat": -37.778399,
+        "lng": 144.797653,
+        "addr_street": "90 Rockbank Road"
+    },
+    {
+        "property_id": 28402,
+        "lat": -37.800222,
+        "lng": 144.979949,
+        "addr_street": "76 Greeves Street"
+    },
+    {
+        "property_id": 998,
+        "lat": -37.80812073,
+        "lng": 144.8899384,
+        "addr_street": "40 Gamon Street"
+    },
+    {
+        "property_id": 5135,
+        "lat": -37.867312,
+        "lng": 144.827299,
+        "addr_street": "3/25 McBain Street"
+    },
+    {
+        "property_id": 83748,
+        "lat": -37.856048,
+        "lng": 144.993926,
+        "addr_street": "24A McIlwrick Street"
+    },
+    {
+        "property_id": 38665,
+        "lat": -37.767918,
+        "lng": 145.032856,
+        "addr_street": "17 Belmont Road"
+    },
+    {
+        "property_id": 17297,
+        "lat": -37.703564,
+        "lng": 144.906595,
+        "addr_street": "46 Centre Way"
+    },
+    {
+        "property_id": 15698,
+        "lat": -37.739682,
+        "lng": 144.888307,
+        "addr_street": "33 Jackson Street"
+    },
+    {
+        "property_id": 50749,
+        "lat": -37.779906,
+        "lng": 145.105203,
+        "addr_street": "11 Norweena Street"
+    },
+    {
+        "property_id": 69651,
+        "lat": -37.868603,
+        "lng": 145.096437,
+        "addr_street": "18 Reid Street"
+    },
+    {
+        "property_id": 68089,
+        "lat": -37.8379547,
+        "lng": 145.0120218,
+        "addr_street": "4/1 Robertson Street"
+    },
+    {
+        "property_id": 26830,
+        "lat": -37.58539581,
+        "lng": 144.9358673,
+        "addr_street": "4 Olympic Way"
+    },
+    {
+        "property_id": 8406,
+        "lat": -37.747008,
+        "lng": 144.744442,
+        "addr_street": "3 Provis Close"
+    },
+    {
+        "property_id": 54193,
+        "lat": -37.817987,
+        "lng": 145.020139,
+        "addr_street": "19 Hill Street"
+    },
+    {
+        "property_id": 3994,
+        "lat": -37.81557465,
+        "lng": 144.8898315,
+        "addr_street": "Lot 1,44 Murray Street"
+    },
+    {
+        "property_id": 78094,
+        "lat": -37.929943,
+        "lng": 145.158645,
+        "addr_street": "45 Wattle Grove"
+    },
+    {
+        "property_id": 41675,
+        "lat": -37.7352626,
+        "lng": 145.0750354,
+        "addr_street": "16 Interlaken Parade"
+    },
+    {
+        "property_id": 31674,
+        "lat": -37.734834,
+        "lng": 145.008398,
+        "addr_street": "10 Morgan Street"
+    },
+    {
+        "property_id": 26695,
+        "lat": -37.591628,
+        "lng": 144.932893,
+        "addr_street": "38 Medway Road"
+    },
+    {
+        "property_id": 6522,
+        "lat": -37.780082,
+        "lng": 144.844436,
+        "addr_street": "27 Ernest Street"
+    },
+    {
+        "property_id": 48160,
+        "lat": -37.809822,
+        "lng": 145.03047,
+        "addr_street": "24 Valentine Avenue"
+    },
+    {
+        "property_id": 15400,
+        "lat": -37.734524,
+        "lng": 144.914386,
+        "addr_street": "57 York Street"
+    },
+    {
+        "property_id": 64213,
+        "lat": -37.790144,
+        "lng": 145.284528,
+        "addr_street": "3/14-16 Surrey Road West"
+    },
+    {
+        "property_id": 8849,
+        "lat": -37.883029,
+        "lng": 144.75409,
+        "addr_street": "13 Seaside Close"
+    },
+    {
+        "property_id": 66227,
+        "lat": -37.784369,
+        "lng": 145.325649,
+        "addr_street": "31 Elms Road"
+    },
+    {
+        "property_id": 24389,
+        "lat": -37.693223,
+        "lng": 144.962875,
+        "addr_street": "4 Hedley Street"
+    },
+    {
+        "property_id": 31175,
+        "lat": -37.763371,
+        "lng": 145.003006,
+        "addr_street": "35 Darebin Road"
+    },
+    {
+        "property_id": 66693,
+        "lat": -37.78586,
+        "lng": 145.329292,
+        "addr_street": "76 Taylor Road"
+    },
+    {
+        "property_id": 52222,
+        "lat": -37.8283886,
+        "lng": 145.0000114,
+        "addr_street": "12 Rose Street"
+    },
+    {
+        "property_id": 86132,
+        "lat": -37.896518,
+        "lng": 144.992326,
+        "addr_street": "14 Drake Street"
+    },
+    {
+        "property_id": 65904,
+        "lat": -37.791375,
+        "lng": 145.318135,
+        "addr_street": "18 St James Park Rise"
+    },
+    {
+        "property_id": 13869,
+        "lat": -37.762233,
+        "lng": 144.892831,
+        "addr_street": "15 Jean Street"
+    },
+    {
+        "property_id": 4509,
+        "lat": -37.846164,
+        "lng": 144.871903,
+        "addr_street": "5 Monmouth Street"
+    },
+    {
+        "property_id": 90623,
+        "lat": -37.965308,
+        "lng": 145.080743,
+        "addr_street": "38 Jells Road"
+    },
+    {
+        "property_id": 94155,
+        "lat": -38.071343,
+        "lng": 145.132319,
+        "addr_street": "22 Dahmen Street"
+    },
+    {
+        "property_id": 46862,
+        "lat": -37.69438553,
+        "lng": 145.1766357,
+        "addr_street": "21 Margaret Street"
+    },
+    {
+        "property_id": 46467,
+        "lat": -37.723597,
+        "lng": 145.15115,
+        "addr_street": "112 Brougham Street"
+    },
+    {
+        "property_id": 49806,
+        "lat": -37.768548,
+        "lng": 145.095494,
+        "addr_street": "1 Lincoln Drive"
+    },
+    {
+        "property_id": 13065,
+        "lat": -37.703385,
+        "lng": 144.745864,
+        "addr_street": "3a Sayvel Close"
+    },
+    {
+        "property_id": 12765,
+        "lat": -37.694406,
+        "lng": 144.755304,
+        "addr_street": "25 Cynthia Court"
+    },
+    {
+        "property_id": 24606,
+        "lat": -37.714574,
+        "lng": 144.964865,
+        "addr_street": "8 Wyuna Street"
+    },
+    {
+        "property_id": 95722,
+        "lat": -37.92261505,
+        "lng": 145.0495453,
+        "addr_street": "4 Halley Court"
+    },
+    {
+        "property_id": 65303,
+        "lat": -37.804665,
+        "lng": 145.304261,
+        "addr_street": "30 Byron Road"
+    },
+    {
+        "property_id": 20474,
+        "lat": -37.769908,
+        "lng": 144.970582,
+        "addr_street": "130 Albert Street"
+    },
+    {
+        "property_id": 35522,
+        "lat": -37.709262,
+        "lng": 144.999747,
+        "addr_street": "73 Barry Street"
+    },
+    {
+        "property_id": 89325,
+        "lat": -37.951928,
+        "lng": 145.010605,
+        "addr_street": "20 Victory Street"
+    },
+    {
+        "property_id": 7171,
+        "lat": -37.735306,
+        "lng": 144.824239,
+        "addr_street": "10 Leavesdon Avenue"
+    },
+    {
+        "property_id": 18786,
+        "lat": -37.670127,
+        "lng": 144.93822,
+        "addr_street": "39 Berger Street"
+    },
+    {
+        "property_id": 63316,
+        "lat": -37.810092,
+        "lng": 145.290147,
+        "addr_street": "1/8 Lindel Court"
+    },
+    {
+        "property_id": 90772,
+        "lat": -37.964033,
+        "lng": 145.054244,
+        "addr_street": "5 Maude Street"
+    },
+    {
+        "property_id": 42746,
+        "lat": -37.722834,
+        "lng": 145.079401,
+        "addr_street": "1/42 Fairlie Avenue"
+    },
+    {
+        "property_id": 16749,
+        "lat": -37.70796967,
+        "lng": 144.9146576,
+        "addr_street": "2/11 GRANDVIEW STREET"
+    },
+    {
+        "property_id": 72976,
+        "lat": -37.85962296,
+        "lng": 145.2612763,
+        "addr_street": "143 Kanooka Road"
+    },
+    {
+        "property_id": 47422,
+        "lat": -37.713685,
+        "lng": 145.165329,
+        "addr_street": "65 Eucalyptus Road"
+    },
+    {
+        "property_id": 33291,
+        "lat": -37.734672,
+        "lng": 145.006872,
+        "addr_street": "9 Walter Street"
+    },
+    {
+        "property_id": 38086,
+        "lat": -37.785737,
+        "lng": 145.030504,
+        "addr_street": "2 Lucerne Crescent"
+    },
+    {
+        "property_id": 88656,
+        "lat": -37.95009232,
+        "lng": 145.0451813,
+        "addr_street": "22 View Street"
+    },
+    {
+        "property_id": 67716,
+        "lat": -37.754294,
+        "lng": 145.356191,
+        "addr_street": "80 Anderson Street"
+    },
+    {
+        "property_id": 83084,
+        "lat": -37.890291,
+        "lng": 145.249975,
+        "addr_street": "2/44 Kathryn Road"
+    },
+    {
+        "property_id": 45864,
+        "lat": -37.728961,
+        "lng": 145.130533,
+        "addr_street": "17 Cressy Street"
+    },
+    {
+        "property_id": 6690,
+        "lat": -37.783244,
+        "lng": 144.839887,
+        "addr_street": "4 Dulcie Street"
+    },
+    {
+        "property_id": 66218,
+        "lat": -37.779091,
+        "lng": 145.328733,
+        "addr_street": "30 Greenslopes Drive"
+    },
+    {
+        "property_id": 21776,
+        "lat": -37.745812,
+        "lng": 144.949309,
+        "addr_street": "104 Gordon Street"
+    },
+    {
+        "property_id": 60393,
+        "lat": -37.833049,
+        "lng": 145.19598,
+        "addr_street": "1/5 Grey Street"
+    },
+    {
+        "property_id": 21626,
+        "lat": -37.775301,
+        "lng": 144.952035,
+        "addr_street": "9 Gray Street"
+    },
+    {
+        "property_id": 96406,
+        "lat": -37.998367,
+        "lng": 145.268405,
+        "addr_street": "10 Simpson Court"
+    },
+    {
+        "property_id": 69714,
+        "lat": -37.871634,
+        "lng": 145.101915,
+        "addr_street": "2/8 Murra Court"
+    },
+    {
+        "property_id": 70496,
+        "lat": -37.884219,
+        "lng": 145.103145,
+        "addr_street": "12 Rosemary Street"
+    },
+    {
+        "property_id": 62798,
+        "lat": -37.82806778,
+        "lng": 145.2325745,
+        "addr_street": "28 Valerie Court"
+    },
+    {
+        "property_id": 32668,
+        "lat": -37.733253,
+        "lng": 145.021394,
+        "addr_street": "36 Madeline Street"
+    },
+    {
+        "property_id": 47303,
+        "lat": -37.708909,
+        "lng": 145.156878,
+        "addr_street": "52 Stanley Avenue"
+    },
+    {
+        "property_id": 44746,
+        "lat": -37.714564,
+        "lng": 145.099398,
+        "addr_street": "26 Cam Street"
+    },
+    {
+        "property_id": 73410,
+        "lat": -37.858243,
+        "lng": 145.281311,
+        "addr_street": "28 Warbler Court"
+    },
+    {
+        "property_id": 70627,
+        "lat": -37.873758,
+        "lng": 145.109754,
+        "addr_street": "2/80 Railway Parade South"
+    },
+    {
+        "property_id": 10793,
+        "lat": -37.795521,
+        "lng": 144.934261,
+        "addr_street": "67A Hardiman Street"
+    },
+    {
+        "property_id": 74785,
+        "lat": -37.9020195,
+        "lng": 145.0617828,
+        "addr_street": "20 Coling Avenue"
+    },
+    {
+        "property_id": 78639,
+        "lat": -37.944057,
+        "lng": 145.154101,
+        "addr_street": "149 Springvale Road"
+    },
+    {
+        "property_id": 13924,
+        "lat": -37.752773,
+        "lng": 144.896553,
+        "addr_street": "17 Cooper Street"
+    },
+    {
+        "property_id": 36081,
+        "lat": -37.673091,
+        "lng": 145.038672,
+        "addr_street": "1 Winston Street"
+    },
+    {
+        "property_id": 48863,
+        "lat": -37.806707,
+        "lng": 145.088654,
+        "addr_street": "1 Kalgurli Court"
+    },
+    {
+        "property_id": 82664,
+        "lat": -37.900862,
+        "lng": 145.279953,
+        "addr_street": "22 Monbulk Crescent"
+    },
+    {
+        "property_id": 27430,
+        "lat": -37.602705,
+        "lng": 144.914616,
+        "addr_street": "6 Royal Troon Way"
+    },
+    {
+        "property_id": 23328,
+        "lat": -37.649837,
+        "lng": 144.898744,
+        "addr_street": "1/15 Wallace Drive"
+    },
+    {
+        "property_id": 18821,
+        "lat": -37.677052,
+        "lng": 144.911015,
+        "addr_street": "4 Mitre Court"
+    },
+    {
+        "property_id": 17737,
+        "lat": -37.699526,
+        "lng": 144.932711,
+        "addr_street": "80 Isla Avenue"
+    },
+    {
+        "property_id": 25037,
+        "lat": -37.575869,
+        "lng": 144.929831,
+        "addr_street": "10 Scarborough Terrace"
+    },
+    {
+        "property_id": 50165,
+        "lat": -37.7738,
+        "lng": 145.097036,
+        "addr_street": "32 Riverview Terrace"
+    },
+    {
+        "property_id": 732,
+        "lat": -37.796585,
+        "lng": 144.8853777,
+        "addr_street": "26/44 Everard Street"
+    },
+    {
+        "property_id": 14240,
+        "lat": -37.744902,
+        "lng": 144.920381,
+        "addr_street": "3 Woodvale Close"
+    },
+    {
+        "property_id": 36802,
+        "lat": -37.645203,
+        "lng": 145.028831,
+        "addr_street": "13  Memorial Ave"
+    },
+    {
+        "property_id": 90192,
+        "lat": -37.953419,
+        "lng": 145.05961,
+        "addr_street": "2 Chatsworth Close"
+    },
+    {
+        "property_id": 64024,
+        "lat": -37.792867,
+        "lng": 145.290911,
+        "addr_street": "240 Dorset Road"
+    },
+    {
+        "property_id": 88821,
+        "lat": -37.94739151,
+        "lng": 145.041626,
+        "addr_street": "36 Railway Parade"
+    },
+    {
+        "property_id": 49130,
+        "lat": -37.80628586,
+        "lng": 145.0705109,
+        "addr_street": "18 Metung Street"
+    },
+    {
+        "property_id": 1062,
+        "lat": -37.79508972,
+        "lng": 144.8902435,
+        "addr_street": "45 Shepherd Street"
+    },
+    {
+        "property_id": 40362,
+        "lat": -37.694276,
+        "lng": 145.057164,
+        "addr_street": "30 McLeans Road"
+    },
+    {
+        "property_id": 41914,
+        "lat": -37.736639,
+        "lng": 145.084248,
+        "addr_street": "24 Duff Parade"
+    },
+    {
+        "property_id": 51815,
+        "lat": -37.801458,
+        "lng": 145.188716,
+        "addr_street": "17 Wrendale Drive"
+    },
+    {
+        "property_id": 70959,
+        "lat": -37.843781,
+        "lng": 145.236093,
+        "addr_street": "1 Karen Court"
+    },
+    {
+        "property_id": 15946,
+        "lat": -37.70063782,
+        "lng": 144.9008179,
+        "addr_street": "14 Orchid Court"
+    },
+    {
+        "property_id": 84313,
+        "lat": -37.857298,
+        "lng": 145.006521,
+        "addr_street": "7 Pickford Street"
+    },
+    {
+        "property_id": 30848,
+        "lat": -37.75454,
+        "lng": 145.018837,
+        "addr_street": "174 DUNDAS Street"
+    },
+    {
+        "property_id": 33645,
+        "lat": -37.70338058,
+        "lng": 145.0325775,
+        "addr_street": "112 Darebin Blvd"
+    },
+    {
+        "property_id": 17499,
+        "lat": -37.705819,
+        "lng": 144.931518,
+        "addr_street": "6 Isla Avenue"
+    },
+    {
+        "property_id": 60100,
+        "lat": -37.82624,
+        "lng": 145.192645,
+        "addr_street": "54 Owen Street"
+    },
+    {
+        "property_id": 1078,
+        "lat": -37.79765,
+        "lng": 144.902567,
+        "addr_street": "47 Newell Street"
+    },
+    {
+        "property_id": 68680,
+        "lat": -37.861908,
+        "lng": 145.020053,
+        "addr_street": "8a Kooyong Road"
+    },
+    {
+        "property_id": 47528,
+        "lat": -37.706356,
+        "lng": 145.171723,
+        "addr_street": "8 Ashdale Grove"
+    },
+    {
+        "property_id": 87544,
+        "lat": -37.933819,
+        "lng": 145.022738,
+        "addr_street": "24 Smith Street"
+    },
+    {
+        "property_id": 20601,
+        "lat": -37.764266,
+        "lng": 144.958022,
+        "addr_street": "16 Cliff Street"
+    },
+    {
+        "property_id": 45841,
+        "lat": -37.720184,
+        "lng": 145.112035,
+        "addr_street": "15 Palara Court"
+    },
+    {
+        "property_id": 2962,
+        "lat": -37.81761169,
+        "lng": 144.8883057,
+        "addr_street": "18 Buninyong Street"
+    },
+    {
+        "property_id": 90585,
+        "lat": -37.960399,
+        "lng": 145.049262,
+        "addr_street": "34 Tulip Grove"
+    },
+    {
+        "property_id": 84962,
+        "lat": -37.876509,
+        "lng": 144.982421,
+        "addr_street": "43 Ruskin Street"
+    },
+    {
+        "property_id": 26120,
+        "lat": -37.587643,
+        "lng": 144.922158,
+        "addr_street": "25 Bradworth Street"
+    },
+    {
+        "property_id": 50518,
+        "lat": -37.754555,
+        "lng": 145.135373,
+        "addr_street": "21 Hawtin Street"
+    },
+    {
+        "property_id": 12925,
+        "lat": -37.7213465,
+        "lng": 144.7804646,
+        "addr_street": "3 Wilmot Drive"
+    },
+    {
+        "property_id": 66292,
+        "lat": -37.78817749,
+        "lng": 145.3214874,
+        "addr_street": "37 Cardigan Rd"
+    },
+    {
+        "property_id": 24622,
+        "lat": -37.690866,
+        "lng": 144.962794,
+        "addr_street": "9 Janice Court"
+    },
+    {
+        "property_id": 54449,
+        "lat": -37.82357788,
+        "lng": 145.0297394,
+        "addr_street": "36 Manningtree Road"
+    },
+    {
+        "property_id": 47288,
+        "lat": -37.694596,
+        "lng": 145.170901,
+        "addr_street": "5 Woongarra Court"
+    },
+    {
+        "property_id": 77970,
+        "lat": -37.92468,
+        "lng": 145.159316,
+        "addr_street": "35 Medoro Grove"
+    },
+    {
+        "property_id": 86515,
+        "lat": -37.91150284,
+        "lng": 144.996872,
+        "addr_street": "3 Emily Street"
+    },
+    {
+        "property_id": 92883,
+        "lat": -37.999073,
+        "lng": 145.085152,
+        "addr_street": "19A Melrose Street"
+    },
+    {
+        "property_id": 25483,
+        "lat": -37.596114,
+        "lng": 144.908719,
+        "addr_street": "15 Freshwater Road"
+    },
+    {
+        "property_id": 39889,
+        "lat": -37.693195,
+        "lng": 145.07856,
+        "addr_street": "19 Dorrington Court"
+    },
+    {
+        "property_id": 51035,
+        "lat": -37.789569,
+        "lng": 145.127408,
+        "addr_street": "21 Clay Drive"
+    },
+    {
+        "property_id": 55992,
+        "lat": -37.835359,
+        "lng": 145.090534,
+        "addr_street": "888 Riversdale Road"
+    },
+    {
+        "property_id": 62327,
+        "lat": -37.7963,
+        "lng": 145.240834,
+        "addr_street": "8 Sunhill Avenue"
+    },
+    {
+        "property_id": 36474,
+        "lat": -37.660806,
+        "lng": 145.020676,
+        "addr_street": "484A Station Street"
+    },
+    {
+        "property_id": 33732,
+        "lat": -37.70267105,
+        "lng": 145.0175781,
+        "addr_street": "121 Cheddar Road"
+    },
+    {
+        "property_id": 28837,
+        "lat": -37.80728531,
+        "lng": 144.9946289,
+        "addr_street": "15 Mollison Street"
+    },
+    {
+        "property_id": 20143,
+        "lat": -37.800732,
+        "lng": 144.968659,
+        "addr_street": "32 Grattan Street"
+    },
+    {
+        "property_id": 94573,
+        "lat": -37.927683,
+        "lng": 145.041444,
+        "addr_street": "10 Mortimore Street"
+    },
+    {
+        "property_id": 70874,
+        "lat": -37.873519,
+        "lng": 145.108825,
+        "addr_street": "72 Railway Parade"
+    },
+    {
+        "property_id": 22776,
+        "lat": -37.746385,
+        "lng": 144.957405,
+        "addr_street": "41 Berry Street"
+    },
+    {
+        "property_id": 96914,
+        "lat": -37.99961853,
+        "lng": 145.2628326,
+        "addr_street": "5 Timothy Court"
+    },
+    {
+        "property_id": 34723,
+        "lat": -37.72216797,
+        "lng": 144.9988251,
+        "addr_street": "33 Taylor Avenue"
+    },
+    {
+        "property_id": 45929,
+        "lat": -37.720744,
+        "lng": 145.128553,
+        "addr_street": "2/2 Aanensen Court"
+    },
+    {
+        "property_id": 43276,
+        "lat": -37.721072,
+        "lng": 145.072704,
+        "addr_street": "70 Somers Avenue"
+    },
+    {
+        "property_id": 17066,
+        "lat": -37.699421,
+        "lng": 144.943328,
+        "addr_street": "32 Sadie Street"
+    },
+    {
+        "property_id": 86078,
+        "lat": -37.909058,
+        "lng": 145.004799,
+        "addr_street": "125 Male Street"
+    },
+    {
+        "property_id": 87907,
+        "lat": -37.938109,
+        "lng": 145.00858,
+        "addr_street": "7 Charles Street"
+    },
+    {
+        "property_id": 28243,
+        "lat": -37.795781,
+        "lng": 144.980305,
+        "addr_street": "328A Young Street"
+    },
+    {
+        "property_id": 4508,
+        "lat": -37.841235,
+        "lng": 144.877492,
+        "addr_street": "5 Elizabeth Street"
+    },
+    {
+        "property_id": 14649,
+        "lat": -37.753787,
+        "lng": 144.897179,
+        "addr_street": "6 Cooper Street"
+    },
+    {
+        "property_id": 41737,
+        "lat": -37.743448,
+        "lng": 145.069321,
+        "addr_street": "18 Leon Avenue"
+    },
+    {
+        "property_id": 7227,
+        "lat": -37.736338,
+        "lng": 144.831317,
+        "addr_street": "145 Rowan Drive"
+    },
+    {
+        "property_id": 9337,
+        "lat": -37.859222,
+        "lng": 144.720883,
+        "addr_street": "17 Barchester Av"
+    },
+    {
+        "property_id": 27933,
+        "lat": -37.603236,
+        "lng": 144.931144,
+        "addr_street": "9 Ipswich Place"
+    },
+    {
+        "property_id": 76195,
+        "lat": -37.90399,
+        "lng": 145.084413,
+        "addr_street": "41 Latrobe Street"
+    },
+    {
+        "property_id": 26969,
+        "lat": -37.584786,
+        "lng": 144.931033,
+        "addr_street": "44 Malcolm Creek Parade"
+    },
+    {
+        "property_id": 59134,
+        "lat": -37.809303,
+        "lng": 145.17372,
+        "addr_street": "8 Charles Street"
+    },
+    {
+        "property_id": 49345,
+        "lat": -37.807949,
+        "lng": 145.101289,
+        "addr_street": "2a Pryton Court"
+    },
+    {
+        "property_id": 5963,
+        "lat": -37.788489,
+        "lng": 144.836352,
+        "addr_street": "1 Tyler Street"
+    },
+    {
+        "property_id": 49248,
+        "lat": -37.806529,
+        "lng": 145.095711,
+        "addr_street": "22 Burroughs Road"
+    },
+    {
+        "property_id": 41619,
+        "lat": -37.744992,
+        "lng": 145.079278,
+        "addr_street": "148 Beverley Road"
+    },
+    {
+        "property_id": 71928,
+        "lat": -37.84975,
+        "lng": 145.272994,
+        "addr_street": "1/2 Percival Street"
+    },
+    {
+        "property_id": 83956,
+        "lat": -37.855703,
+        "lng": 145.007415,
+        "addr_street": "39 Highbury Grove"
+    },
+    {
+        "property_id": 96113,
+        "lat": -37.928319,
+        "lng": 145.047005,
+        "addr_street": "68 Mortimore Street"
+    },
+    {
+        "property_id": 42737,
+        "lat": -37.72046,
+        "lng": 145.094136,
+        "addr_street": "1 Woodlands Rise"
+    },
+    {
+        "property_id": 6353,
+        "lat": -37.78348923,
+        "lng": 144.8423615,
+        "addr_street": "2 Dorothy Street"
+    },
+    {
+        "property_id": 39359,
+        "lat": -37.684169,
+        "lng": 145.05392,
+        "addr_street": "10 Buttercup Grove"
+    },
+    {
+        "property_id": 35137,
+        "lat": -37.71682739,
+        "lng": 145.0155792,
+        "addr_street": "51 Cuthbert Road"
+    },
+    {
+        "property_id": 44133,
+        "lat": -37.692962,
+        "lng": 145.118516,
+        "addr_street": "11 Mine Street"
+    },
+    {
+        "property_id": 95602,
+        "lat": -37.922788,
+        "lng": 145.03636,
+        "addr_street": "35 Bendigo Avenue"
+    },
+    {
+        "property_id": 40853,
+        "lat": -37.70608902,
+        "lng": 145.0568237,
+        "addr_street": "55 Norfolk Crescent"
+    },
+    {
+        "property_id": 10962,
+        "lat": -37.7858043,
+        "lng": 144.9290355,
+        "addr_street": "92 Pin Oak Crescent"
+    },
+    {
+        "property_id": 64299,
+        "lat": -37.795516,
+        "lng": 145.303298,
+        "addr_street": "33 Timms Avenue"
+    },
+    {
+        "property_id": 42292,
+        "lat": -37.743759,
+        "lng": 145.068796,
+        "addr_street": "48 Grove Road"
+    },
+    {
+        "property_id": 7462,
+        "lat": -37.734348,
+        "lng": 144.821059,
+        "addr_street": "4 Denham Court"
+    },
+    {
+        "property_id": 78654,
+        "lat": -37.958677,
+        "lng": 145.161267,
+        "addr_street": "15 Rosa Avenue"
+    },
+    {
+        "property_id": 65672,
+        "lat": -37.78675842,
+        "lng": 145.3259888,
+        "addr_street": "11 Keats Road"
+    },
+    {
+        "property_id": 37930,
+        "lat": -37.774185,
+        "lng": 145.026185,
+        "addr_street": "106 Grange Road"
+    },
+    {
+        "property_id": 73363,
+        "lat": -37.865218,
+        "lng": 145.301434,
+        "addr_street": "26 Hansen Road"
+    },
+    {
+        "property_id": 54753,
+        "lat": -37.820014,
+        "lng": 145.02516,
+        "addr_street": "88 Elgin Street"
+    },
+    {
+        "property_id": 36370,
+        "lat": -37.674143,
+        "lng": 145.042849,
+        "addr_street": "3 Dallas Drive"
+    },
+    {
+        "property_id": 76527,
+        "lat": -37.921259,
+        "lng": 145.113599,
+        "addr_street": "11 Eva Street"
+    },
+    {
+        "property_id": 33006,
+        "lat": -37.741856,
+        "lng": 145.004929,
+        "addr_street": "6 Dalgety Street"
+    },
+    {
+        "property_id": 50828,
+        "lat": -37.77753,
+        "lng": 145.11391,
+        "addr_street": "148 High Street"
+    },
+    {
+        "property_id": 21455,
+        "lat": -37.757858,
+        "lng": 144.969381,
+        "addr_street": "65 Donald Street"
+    },
+    {
+        "property_id": 92798,
+        "lat": -37.984636,
+        "lng": 145.090818,
+        "addr_street": "162 Lower Dandenong Road"
+    },
+    {
+        "property_id": 39125,
+        "lat": -37.750841,
+        "lng": 145.033358,
+        "addr_street": "123 Liberty Parade"
+    },
+    {
+        "property_id": 15984,
+        "lat": -37.704656,
+        "lng": 144.894548,
+        "addr_street": "2 Clover Court"
+    },
+    {
+        "property_id": 43225,
+        "lat": -37.714263,
+        "lng": 145.068596,
+        "addr_street": "59 Sugarloaf Drive"
+    },
+    {
+        "property_id": 11899,
+        "lat": -37.710991,
+        "lng": 144.826302,
+        "addr_street": "6 Raymond Court"
+    },
+    {
+        "property_id": 65128,
+        "lat": -37.81496,
+        "lng": 145.315854,
+        "addr_street": "138 Liverpool Road"
+    },
+    {
+        "property_id": 83968,
+        "lat": -37.85314,
+        "lng": 145.006745,
+        "addr_street": "4 Chatsworth Road"
+    },
+    {
+        "property_id": 51840,
+        "lat": -37.79759979,
+        "lng": 145.1770935,
+        "addr_street": "20 Underwood Drive"
+    },
+    {
+        "property_id": 6442,
+        "lat": -37.79042435,
+        "lng": 144.8437042,
+        "addr_street": "21 Norma Street"
+    },
+    {
+        "property_id": 88506,
+        "lat": -37.947583,
+        "lng": 145.028352,
+        "addr_street": "154 Highett Road"
+    },
+    {
+        "property_id": 57889,
+        "lat": -37.822574,
+        "lng": 145.15156,
+        "addr_street": "25 Gardenia Street"
+    },
+    {
+        "property_id": 37973,
+        "lat": -37.78022766,
+        "lng": 145.0246582,
+        "addr_street": "13 Grange Road"
+    },
+    {
+        "property_id": 54422,
+        "lat": -37.825676,
+        "lng": 145.038596,
+        "addr_street": "33 Swinburne Avenue"
+    },
+    {
+        "property_id": 23637,
+        "lat": -37.654505,
+        "lng": 144.897402,
+        "addr_street": "4 Winster Court"
+    },
+    {
+        "property_id": 60732,
+        "lat": -37.841712,
+        "lng": 145.192744,
+        "addr_street": "4 Locksley Chase"
+    },
+    {
+        "property_id": 44530,
+        "lat": -37.71904755,
+        "lng": 145.1083679,
+        "addr_street": "2 Lumleah Court"
+    },
+    {
+        "property_id": 46802,
+        "lat": -37.70493,
+        "lng": 145.137453,
+        "addr_street": "2 Wakefield Close"
+    },
+    {
+        "property_id": 751,
+        "lat": -37.79587173,
+        "lng": 144.9004822,
+        "addr_street": "27 Nicholson Street"
+    },
+    {
+        "property_id": 33504,
+        "lat": -37.724616,
+        "lng": 145.004422,
+        "addr_street": "10 Down Street"
+    },
+    {
+        "property_id": 83090,
+        "lat": -37.88817,
+        "lng": 145.246837,
+        "addr_street": "2/79 Rickards Avenue"
+    },
+    {
+        "property_id": 32168,
+        "lat": -37.73459244,
+        "lng": 144.9969788,
+        "addr_street": "2 Bellarine Street"
+    },
+    {
+        "property_id": 80064,
+        "lat": -37.98403931,
+        "lng": 145.1539612,
+        "addr_street": "3 Ennismore Drive"
+    },
+    {
+        "property_id": 78678,
+        "lat": -37.93559647,
+        "lng": 145.1532135,
+        "addr_street": "16 Whiteside Street"
+    },
+    {
+        "property_id": 93212,
+        "lat": -37.991303,
+        "lng": 145.087478,
+        "addr_street": "31 Victoria Street"
+    },
+    {
+        "property_id": 70922,
+        "lat": -37.888526,
+        "lng": 145.100152,
+        "addr_street": "9 Moroney Drive"
+    },
+    {
+        "property_id": 32321,
+        "lat": -37.751404,
+        "lng": 144.994144,
+        "addr_street": "22 Miller Street"
+    },
+    {
+        "property_id": 61328,
+        "lat": -37.818078,
+        "lng": 145.238463,
+        "addr_street": "15 Heathmont Road"
+    },
+    {
+        "property_id": 32111,
+        "lat": -37.746359,
+        "lng": 145.011387,
+        "addr_street": "189 Bell Street"
+    },
+    {
+        "property_id": 71080,
+        "lat": -37.842038,
+        "lng": 145.230016,
+        "addr_street": "12 Dudley Avenue"
+    },
+    {
+        "property_id": 91824,
+        "lat": -37.979398,
+        "lng": 145.035217,
+        "addr_street": "8 Clonmore Street"
+    },
+    {
+        "property_id": 3822,
+        "lat": -37.809381,
+        "lng": 144.884547,
+        "addr_street": "70 O'farrell Street"
+    },
+    {
+        "property_id": 68477,
+        "lat": -37.85435486,
+        "lng": 145.0281677,
+        "addr_street": "32 Adelaide Street"
+    },
+    {
+        "property_id": 62746,
+        "lat": -37.83016,
+        "lng": 145.260329,
+        "addr_street": "23 Miller Road"
+    },
+    {
+        "property_id": 80307,
+        "lat": -37.983976,
+        "lng": 145.185152,
+        "addr_street": "5 Apollo Court"
+    },
+    {
+        "property_id": 93282,
+        "lat": -38.016476,
+        "lng": 145.095081,
+        "addr_street": "37 Station Street"
+    },
+    {
+        "property_id": 68014,
+        "lat": -37.84894562,
+        "lng": 145.0158234,
+        "addr_street": "28 Clendon Road"
+    },
+    {
+        "property_id": 86733,
+        "lat": -37.902107,
+        "lng": 144.998994,
+        "addr_street": "40a Cochrane Street"
+    },
+    {
+        "property_id": 13832,
+        "lat": -37.757183,
+        "lng": 144.90905,
+        "addr_street": "14 Clarinda Road"
+    },
+    {
+        "property_id": 29780,
+        "lat": -37.766343,
+        "lng": 145.016088,
+        "addr_street": "24 Wilmoth Street"
+    },
+    {
+        "property_id": 62384,
+        "lat": -37.805408,
+        "lng": 145.228918,
+        "addr_street": "9 Loughnan Road"
+    },
+    {
+        "property_id": 82127,
+        "lat": -37.98526764,
+        "lng": 145.2442932,
+        "addr_street": "35 Marie Street"
+    },
+    {
+        "property_id": 42097,
+        "lat": -37.751048,
+        "lng": 145.075287,
+        "addr_street": "33 Dalvey Street"
+    },
+    {
+        "property_id": 16230,
+        "lat": -37.69813538,
+        "lng": 144.9163055,
+        "addr_street": "1/43 Hartington Street"
+    },
+    {
+        "property_id": 25137,
+        "lat": -37.604212,
+        "lng": 144.915549,
+        "addr_street": "11 Pine Valley Rise"
+    },
+    {
+        "property_id": 51725,
+        "lat": -37.78284,
+        "lng": 145.129381,
+        "addr_street": "9 Roseville Ave"
+    },
+    {
+        "property_id": 4735,
+        "lat": -37.833353,
+        "lng": 144.872935,
+        "addr_street": "90 Watt Street"
+    },
+    {
+        "property_id": 62784,
+        "lat": -37.831993,
+        "lng": 145.231605,
+        "addr_street": "269 Canterbury Road"
+    },
+    {
+        "property_id": 37847,
+        "lat": -37.646395,
+        "lng": 145.027021,
+        "addr_street": "9 Lloyd Avenue"
+    },
+    {
+        "property_id": 32809,
+        "lat": -37.745197,
+        "lng": 144.995858,
+        "addr_street": "45 Penola Street"
+    },
+    {
+        "property_id": 90642,
+        "lat": -37.972599,
+        "lng": 145.081085,
+        "addr_street": "4 Atunga Court"
+    },
+    {
+        "property_id": 24019,
+        "lat": -37.70591736,
+        "lng": 144.9691467,
+        "addr_street": "15 Dowling Street"
+    },
+    {
+        "property_id": 93133,
+        "lat": -38.01282883,
+        "lng": 145.0927734,
+        "addr_street": "2b Attenborough Road"
+    },
+    {
+        "property_id": 63104,
+        "lat": -37.825541,
+        "lng": 145.240302,
+        "addr_street": "8 Edna Street"
+    },
+    {
+        "property_id": 76521,
+        "lat": -37.916628,
+        "lng": 145.141451,
+        "addr_street": "104 Wellington Road"
+    },
+    {
+        "property_id": 26289,
+        "lat": -37.577428,
+        "lng": 144.932582,
+        "addr_street": "29 Troward Harvey Way"
+    },
+    {
+        "property_id": 10040,
+        "lat": -37.791933,
+        "lng": 144.926894,
+        "addr_street": "13 Hopetoun Street"
+    },
+    {
+        "property_id": 29719,
+        "lat": -37.771435,
+        "lng": 145.008248,
+        "addr_street": "22 Glanfield Street"
+    },
+    {
+        "property_id": 63732,
+        "lat": -37.7963107,
+        "lng": 145.2835893,
+        "addr_street": "18/13-15 Hewish Road"
+    },
+    {
+        "property_id": 83098,
+        "lat": -37.884244,
+        "lng": 145.242137,
+        "addr_street": "21 Narong Crescent"
+    },
+    {
+        "property_id": 71448,
+        "lat": -37.852416,
+        "lng": 145.231754,
+        "addr_street": "33 Yorkminster Avenue"
+    },
+    {
+        "property_id": 30361,
+        "lat": -37.774638,
+        "lng": 144.990457,
+        "addr_street": "70 St Georges Road"
+    },
+    {
+        "property_id": 94071,
+        "lat": -38.077245,
+        "lng": 145.129473,
+        "addr_street": "1 Emma Street"
+    },
+    {
+        "property_id": 28382,
+        "lat": -37.79909134,
+        "lng": 144.9798279,
+        "addr_street": "7 Chapel Street"
+    },
+    {
+        "property_id": 88024,
+        "lat": -37.93507,
+        "lng": 145.045447,
+        "addr_street": "1 Ronald Street"
+    },
+    {
+        "property_id": 42035,
+        "lat": -37.740054,
+        "lng": 145.068,
+        "addr_street": "3 Finlayson Street"
+    },
+    {
+        "property_id": 58062,
+        "lat": -37.813235,
+        "lng": 145.16594,
+        "addr_street": "38 Esdale Street"
+    },
+    {
+        "property_id": 13409,
+        "lat": -37.698167,
+        "lng": 144.758645,
+        "addr_street": "7 Kontek Way"
+    },
+    {
+        "property_id": 39245,
+        "lat": -37.754915,
+        "lng": 145.044617,
+        "addr_street": "8 Orange Court"
+    },
+    {
+        "property_id": 46185,
+        "lat": -37.73006058,
+        "lng": 145.1343842,
+        "addr_street": "62 Cressy Street"
+    },
+    {
+        "property_id": 82897,
+        "lat": -37.90881729,
+        "lng": 145.2508545,
+        "addr_street": "8 Erskine Drive"
+    },
+    {
+        "property_id": 62258,
+        "lat": -37.817667,
+        "lng": 145.227614,
+        "addr_street": "7 Wantirna Road"
+    },
+    {
+        "property_id": 50215,
+        "lat": -37.77406311,
+        "lng": 145.0913086,
+        "addr_street": "39 Robinson Grove"
+    },
+    {
+        "property_id": 55467,
+        "lat": -37.838906,
+        "lng": 145.073953,
+        "addr_street": "3 Elaroo Avenue"
+    },
+    {
+        "property_id": 38834,
+        "lat": -37.777702,
+        "lng": 145.03984,
+        "addr_street": "33 Elphin Street"
+    },
+    {
+        "property_id": 38464,
+        "lat": -37.778253,
+        "lng": 145.02454,
+        "addr_street": "9 BALLINAMONA STREET"
+    },
+    {
+        "property_id": 2287,
+        "lat": -37.81892395,
+        "lng": 144.8453522,
+        "addr_street": "44 Corrigan Avenue"
+    },
+    {
+        "property_id": 80997,
+        "lat": -38.000131,
+        "lng": 145.198522,
+        "addr_street": "20 Desa Terrace"
+    },
+    {
+        "property_id": 64335,
+        "lat": -37.778622,
+        "lng": 145.30443,
+        "addr_street": "36 Bambra Street"
+    },
+    {
+        "property_id": 53798,
+        "lat": -37.821739,
+        "lng": 145.002366,
+        "addr_street": "8 Theresa Street"
+    },
+    {
+        "property_id": 22508,
+        "lat": -37.74177551,
+        "lng": 144.9581604,
+        "addr_street": "29 Wellington Street"
+    },
+    {
+        "property_id": 3425,
+        "lat": -37.820601,
+        "lng": 144.891041,
+        "addr_street": "36 Newcastle Street"
+    },
+    {
+        "property_id": 57585,
+        "lat": -37.816132,
+        "lng": 145.141529,
+        "addr_street": "12 Tara Avenue"
+    },
+    {
+        "property_id": 8408,
+        "lat": -37.75921631,
+        "lng": 144.782959,
+        "addr_street": "3 Sugargum Grove"
+    },
+    {
+        "property_id": 61438,
+        "lat": -37.82172,
+        "lng": 145.236938,
+        "addr_street": "19 Emerald Street"
+    },
+    {
+        "property_id": 31275,
+        "lat": -37.756468,
+        "lng": 144.985198,
+        "addr_street": "46 Newman Street"
+    },
+    {
+        "property_id": 92611,
+        "lat": -37.993485,
+        "lng": 145.070124,
+        "addr_street": "11 Genoa Street"
+    },
+    {
+        "property_id": 19418,
+        "lat": -37.662784,
+        "lng": 144.933824,
+        "addr_street": "36 Guildford Crescent"
+    },
+    {
+        "property_id": 83347,
+        "lat": -37.853093,
+        "lng": 145.004943,
+        "addr_street": "1 Kent Lane"
+    },
+    {
+        "property_id": 72782,
+        "lat": -37.862961,
+        "lng": 145.278301,
+        "addr_street": "1/5 Narcissus Avenue"
+    },
+    {
+        "property_id": 32212,
+        "lat": -37.73947,
+        "lng": 144.988882,
+        "addr_street": "2/18 Belmont Street"
+    },
+    {
+        "property_id": 49407,
+        "lat": -37.806146,
+        "lng": 145.090898,
+        "addr_street": "32 Raynes Street"
+    },
+    {
+        "property_id": 54627,
+        "lat": -37.816816,
+        "lng": 145.021049,
+        "addr_street": "57 Mason Street"
+    },
+    {
+        "property_id": 25309,
+        "lat": -37.578495,
+        "lng": 144.927224,
+        "addr_street": "13 Hartow Street"
+    },
+    {
+        "property_id": 56026,
+        "lat": -37.842267,
+        "lng": 145.078503,
+        "addr_street": "90A Glyndon Road"
+    },
+    {
+        "property_id": 47439,
+        "lat": -37.71526,
+        "lng": 145.165851,
+        "addr_street": "68 Eucalyptus Road"
+    },
+    {
+        "property_id": 70661,
+        "lat": -37.877359,
+        "lng": 145.094436,
+        "addr_street": "23 Terrigal Street"
+    },
+    {
+        "property_id": 55705,
+        "lat": -37.839227,
+        "lng": 145.065377,
+        "addr_street": "456 Camberwell Road"
+    },
+    {
+        "property_id": 42273,
+        "lat": -37.765641,
+        "lng": 145.0572,
+        "addr_street": "45 The Righi"
+    },
+    {
+        "property_id": 21518,
+        "lat": -37.77772141,
+        "lng": 144.9590759,
+        "addr_street": "713 Park st"
+    },
+    {
+        "property_id": 42646,
+        "lat": -37.765068,
+        "lng": 145.057675,
+        "addr_street": "86 The Eyrie"
+    },
+    {
+        "property_id": 17918,
+        "lat": -37.66708755,
+        "lng": 144.9211731,
+        "addr_street": "1 Ascot Court"
+    },
+    {
+        "property_id": 23708,
+        "lat": -37.651065,
+        "lng": 144.906601,
+        "addr_street": "58 Dunfermline Avenue"
+    },
+    {
+        "property_id": 17969,
+        "lat": -37.688,
+        "lng": 144.915451,
+        "addr_street": "10 Bessell Court"
+    },
+    {
+        "property_id": 84830,
+        "lat": -37.88103867,
+        "lng": 144.9919739,
+        "addr_street": "29 Kendall Street"
+    },
+    {
+        "property_id": 87690,
+        "lat": -37.944594,
+        "lng": 145.017755,
+        "addr_street": "4 Field Street"
+    },
+    {
+        "property_id": 96631,
+        "lat": -37.999166,
+        "lng": 145.266687,
+        "addr_street": "21 Eva Court"
+    },
+    {
+        "property_id": 60133,
+        "lat": -37.80619812,
+        "lng": 145.1882172,
+        "addr_street": "6 Compton Street"
+    },
+    {
+        "property_id": 21082,
+        "lat": -37.776223,
+        "lng": 144.951194,
+        "addr_street": "336 Brunswick Road"
+    },
+    {
+        "property_id": 65810,
+        "lat": -37.78241348,
+        "lng": 145.3301849,
+        "addr_street": "15 WINIFRED ROAD"
+    },
+    {
+        "property_id": 51349,
+        "lat": -37.796511,
+        "lng": 145.138244,
+        "addr_street": "39 Norfolk Circuit"
+    },
+    {
+        "property_id": 77136,
+        "lat": -37.943517,
+        "lng": 145.110093,
+        "addr_street": "18 Bushland Avenue"
+    },
+    {
+        "property_id": 27069,
+        "lat": -37.578674,
+        "lng": 144.937279,
+        "addr_street": "5 Bowman Glen"
+    },
+    {
+        "property_id": 86385,
+        "lat": -37.895809,
+        "lng": 145.002018,
+        "addr_street": "23 Hamilton Street"
+    },
+    {
+        "property_id": 86715,
+        "lat": -37.903804,
+        "lng": 144.996774,
+        "addr_street": "4 Sheridan Court"
+    },
+    {
+        "property_id": 81989,
+        "lat": -37.988989,
+        "lng": 145.241045,
+        "addr_street": "24 Nigra Street"
+    },
+    {
+        "property_id": 92101,
+        "lat": -37.975591,
+        "lng": 145.061543,
+        "addr_street": "2/1 Alvena Street"
+    },
+    {
+        "property_id": 75059,
+        "lat": -37.889652,
+        "lng": 145.059268,
+        "addr_street": "339 Neerim Road"
+    },
+    {
+        "property_id": 50205,
+        "lat": -37.764051,
+        "lng": 145.095466,
+        "addr_street": "38 Latrobe Street"
+    },
+    {
+        "property_id": 56560,
+        "lat": -37.860054,
+        "lng": 145.100194,
+        "addr_street": "3 Zodiac Street"
+    },
+    {
+        "property_id": 26787,
+        "lat": -37.588747,
+        "lng": 144.917173,
+        "addr_street": "4 Grattan Cove"
+    },
+    {
+        "property_id": 61348,
+        "lat": -37.789908,
+        "lng": 145.257138,
+        "addr_street": "16 Chesney Drive"
+    },
+    {
+        "property_id": 35421,
+        "lat": -37.730499,
+        "lng": 145.028904,
+        "addr_street": "67 Kirby Street"
+    },
+    {
+        "property_id": 27006,
+        "lat": -37.582337,
+        "lng": 144.925747,
+        "addr_street": "46 Highbury Circuit"
+    },
+    {
+        "property_id": 39529,
+        "lat": -37.709712,
+        "lng": 145.055943,
+        "addr_street": "12 Amethyst Walk"
+    },
+    {
+        "property_id": 31171,
+        "lat": -37.757419,
+        "lng": 145.013762,
+        "addr_street": "348 Victoria Road"
+    },
+    {
+        "property_id": 31921,
+        "lat": -37.742058,
+        "lng": 145.01606,
+        "addr_street": "145 Gower Street"
+    },
+    {
+        "property_id": 56709,
+        "lat": -37.846731,
+        "lng": 145.100214,
+        "addr_street": "42 Somers Street"
+    },
+    {
+        "property_id": 43827,
+        "lat": -37.71653,
+        "lng": 145.08374,
+        "addr_street": "5 Sarong Street"
+    },
+    {
+        "property_id": 84631,
+        "lat": -37.882776,
+        "lng": 144.992036,
+        "addr_street": "129 Tennyson Street"
+    },
+    {
+        "property_id": 67784,
+        "lat": -37.747913,
+        "lng": 145.34514,
+        "addr_street": "96 Cave Hill Road"
+    },
+    {
+        "property_id": 19159,
+        "lat": -37.673069,
+        "lng": 144.924978,
+        "addr_street": "7 Stawell Avenue"
+    },
+    {
+        "property_id": 33370,
+        "lat": -37.706529,
+        "lng": 145.014019,
+        "addr_street": "1 Jinghi Road"
+    },
+    {
+        "property_id": 89056,
+        "lat": -37.9543512,
+        "lng": 145.0566437,
+        "addr_street": "9 Hibberd Street"
+    },
+    {
+        "property_id": 25766,
+        "lat": -37.593565,
+        "lng": 144.920776,
+        "addr_street": "19 Watford Crescent"
+    },
+    {
+        "property_id": 77518,
+        "lat": -37.932239,
+        "lng": 145.165763,
+        "addr_street": "141 Wanda Street"
+    },
+    {
+        "property_id": 12880,
+        "lat": -37.70450211,
+        "lng": 144.7626953,
+        "addr_street": "3 Brogil Walk"
+    },
+    {
+        "property_id": 88184,
+        "lat": -37.93633,
+        "lng": 145.049706,
+        "addr_street": "3 Otford Close"
+    },
+    {
+        "property_id": 63662,
+        "lat": -37.786279,
+        "lng": 145.269083,
+        "addr_street": "17 Binbrook Drive"
+    },
+    {
+        "property_id": 75524,
+        "lat": -37.893385,
+        "lng": 145.057464,
+        "addr_street": "9 Porter Road"
+    },
+    {
+        "property_id": 82384,
+        "lat": -37.998201,
+        "lng": 145.236116,
+        "addr_street": "7 Wattle Drive"
+    },
+    {
+        "property_id": 19131,
+        "lat": -37.687317,
+        "lng": 144.927382,
+        "addr_street": "69 Gerbert Street"
+    },
+    {
+        "property_id": 89476,
+        "lat": -37.948855,
+        "lng": 145.0101,
+        "addr_street": "36 Nelson Street"
+    },
+    {
+        "property_id": 26064,
+        "lat": -37.594938,
+        "lng": 144.906171,
+        "addr_street": "23 Waterbird Link"
+    },
+    {
+        "property_id": 19191,
+        "lat": -37.692584,
+        "lng": 144.918929,
+        "addr_street": "8 Dunn Street"
+    },
+    {
+        "property_id": 86867,
+        "lat": -37.910721,
+        "lng": 145.003125,
+        "addr_street": "51A William Street"
+    },
+    {
+        "property_id": 20301,
+        "lat": -37.756708,
+        "lng": 144.964295,
+        "addr_street": "1/2 Davies Street"
+    },
+    {
+        "property_id": 67289,
+        "lat": -37.760874,
+        "lng": 145.357297,
+        "addr_street": "27 Cobden Crescent"
+    },
+    {
+        "property_id": 54816,
+        "lat": -37.84213638,
+        "lng": 145.0553284,
+        "addr_street": "1 Kerr Crescent"
+    },
+    {
+        "property_id": 74910,
+        "lat": -37.89359665,
+        "lng": 145.0680847,
+        "addr_street": "27 Ardyne Street"
+    },
+    {
+        "property_id": 65529,
+        "lat": -37.784597,
+        "lng": 145.331123,
+        "addr_street": "1 Cowley Court"
+    },
+    {
+        "property_id": 22500,
+        "lat": -37.75040054,
+        "lng": 144.9681091,
+        "addr_street": "29 Rennie Street"
+    },
+    {
+        "property_id": 35874,
+        "lat": -37.679251,
+        "lng": 145.030477,
+        "addr_street": "136 Dalton Road"
+    },
+    {
+        "property_id": 70975,
+        "lat": -37.84088,
+        "lng": 145.225945,
+        "addr_street": "1 Swan Court"
+    },
+    {
+        "property_id": 86679,
+        "lat": -37.903604,
+        "lng": 144.989249,
+        "addr_street": "39 Bay Street"
+    },
+    {
+        "property_id": 24825,
+        "lat": -37.672892,
+        "lng": 144.969305,
+        "addr_street": "7 SYLVAN WAY"
+    },
+    {
+        "property_id": 96943,
+        "lat": -37.999405,
+        "lng": 145.282278,
+        "addr_street": "56 Nettle Drive"
+    },
+    {
+        "property_id": 67756,
+        "lat": -37.7622,
+        "lng": 145.370928,
+        "addr_street": "9 Mangans Road"
+    },
+    {
+        "property_id": 46839,
+        "lat": -37.730952,
+        "lng": 145.138151,
+        "addr_street": "20 Porter Street"
+    },
+    {
+        "property_id": 12431,
+        "lat": -37.704076,
+        "lng": 144.755204,
+        "addr_street": "17 Allenby Road"
+    },
+    {
+        "property_id": 94266,
+        "lat": -37.958012,
+        "lng": 145.079464,
+        "addr_street": "1 Pine Valley Place"
+    },
+    {
+        "property_id": 60818,
+        "lat": -37.84336853,
+        "lng": 145.1919403,
+        "addr_street": "52 Nurlendi Road"
+    },
+    {
+        "property_id": 59053,
+        "lat": -37.807539,
+        "lng": 145.184639,
+        "addr_street": "58 Hedge End Road"
+    },
+    {
+        "property_id": 71307,
+        "lat": -37.859196,
+        "lng": 145.232807,
+        "addr_street": "22 Kaisman Square"
+    },
+    {
+        "property_id": 86469,
+        "lat": -37.916379,
+        "lng": 144.994577,
+        "addr_street": "28a Munro Street"
+    },
+    {
+        "property_id": 76170,
+        "lat": -37.90452576,
+        "lng": 145.1056519,
+        "addr_street": "4 Vernon Street"
+    },
+    {
+        "property_id": 82075,
+        "lat": -37.98457,
+        "lng": 145.235792,
+        "addr_street": "3 Peach Court"
+    },
+    {
+        "property_id": 735,
+        "lat": -37.788813,
+        "lng": 144.884426,
+        "addr_street": "268 Ballarat Road"
+    },
+    {
+        "property_id": 27546,
+        "lat": -37.57923508,
+        "lng": 144.9306946,
+        "addr_street": "7 Cheltenham Close"
+    },
+    {
+        "property_id": 48784,
+        "lat": -37.813701,
+        "lng": 145.054704,
+        "addr_street": "86 Sackville Street"
+    },
+    {
+        "property_id": 75818,
+        "lat": -37.897273,
+        "lng": 145.07826,
+        "addr_street": "17 Carlisle Crescent"
+    },
+    {
+        "property_id": 48033,
+        "lat": -37.798922,
+        "lng": 145.022446,
+        "addr_street": "19B Redmond Street"
+    },
+    {
+        "property_id": 10109,
+        "lat": -37.7838601,
+        "lng": 144.9262578,
+        "addr_street": "15 Sturt Street"
+    },
+    {
+        "property_id": 30018,
+        "lat": -37.783765,
+        "lng": 144.998305,
+        "addr_street": "38A Walker Street"
+    },
+    {
+        "property_id": 50162,
+        "lat": -37.767918,
+        "lng": 145.097418,
+        "addr_street": "32 Flinders Street"
+    },
+    {
+        "property_id": 53221,
+        "lat": -37.821218,
+        "lng": 144.991373,
+        "addr_street": "4 Loughnan Street"
+    },
+    {
+        "property_id": 42882,
+        "lat": -37.718823,
+        "lng": 145.059139,
+        "addr_street": "16 Heritage Court"
+    },
+    {
+        "property_id": 92237,
+        "lat": -37.980512,
+        "lng": 145.087339,
+        "addr_street": "33 Broome Avenue"
+    },
+    {
+        "property_id": 5525,
+        "lat": -37.786822,
+        "lng": 144.847336,
+        "addr_street": "146 Devonshire Road"
+    },
+    {
+        "property_id": 91340,
+        "lat": -37.981902,
+        "lng": 145.044122,
+        "addr_street": "173 Tramway Parade"
+    },
+    {
+        "property_id": 41600,
+        "lat": -37.740291,
+        "lng": 145.091952,
+        "addr_street": "14 Royston Street"
+    },
+    {
+        "property_id": 25476,
+        "lat": -37.587682,
+        "lng": 144.90494,
+        "addr_street": "15 Dalwhinnie Crescent"
+    },
+    {
+        "property_id": 41967,
+        "lat": -37.744743,
+        "lng": 145.089789,
+        "addr_street": "266 Banyule Road"
+    },
+    {
+        "property_id": 34262,
+        "lat": -37.70823288,
+        "lng": 145.0308075,
+        "addr_street": "20 Ramleh Road"
+    },
+    {
+        "property_id": 95916,
+        "lat": -37.922896,
+        "lng": 145.039105,
+        "addr_street": "50 Mitchell Street"
+    },
+    {
+        "property_id": 2259,
+        "lat": -37.786052,
+        "lng": 144.879466,
+        "addr_street": "40 Inkerman Street"
+    },
+    {
+        "property_id": 72354,
+        "lat": -37.852714,
+        "lng": 145.262163,
+        "addr_street": "39 Victoria Road"
+    },
+    {
+        "property_id": 51232,
+        "lat": -37.791813,
+        "lng": 145.142634,
+        "addr_street": "3/55 Wetherby Road"
+    },
+    {
+        "property_id": 16956,
+        "lat": -37.702346,
+        "lng": 144.911686,
+        "addr_street": "29 Anselm Grove"
+    },
+    {
+        "property_id": 61537,
+        "lat": -37.778616,
+        "lng": 145.239378,
+        "addr_street": "20 Little John Road"
+    },
+    {
+        "property_id": 42892,
+        "lat": -37.717361,
+        "lng": 145.079986,
+        "addr_street": "163 Somers Avenue"
+    },
+    {
+        "property_id": 2832,
+        "lat": -37.817249,
+        "lng": 144.871737,
+        "addr_street": "14 Bromyard Street"
+    },
+    {
+        "property_id": 60526,
+        "lat": -37.8423996,
+        "lng": 145.1846314,
+        "addr_street": "18 Ferncroft"
+    },
+    {
+        "property_id": 66702,
+        "lat": -37.772712,
+        "lng": 145.302563,
+        "addr_street": "79 Bellara Drive"
+    },
+    {
+        "property_id": 53746,
+        "lat": -37.81389999,
+        "lng": 145.0038757,
+        "addr_street": "77 Buckingham Street"
+    },
+    {
+        "property_id": 86212,
+        "lat": -37.922399,
+        "lng": 144.9919,
+        "addr_street": "16 Stewart Street"
+    },
+    {
+        "property_id": 29532,
+        "lat": -37.766751,
+        "lng": 144.98831,
+        "addr_street": "162A Elm Street"
+    },
+    {
+        "property_id": 74399,
+        "lat": -37.881219,
+        "lng": 145.020235,
+        "addr_street": "8/3-5 Gerard Street"
+    },
+    {
+        "property_id": 60875,
+        "lat": -37.832243,
+        "lng": 145.211295,
+        "addr_street": "639 Canterbury Road"
+    },
+    {
+        "property_id": 96175,
+        "lat": -37.910582,
+        "lng": 145.031666,
+        "addr_street": "70 McKinnon Road"
+    },
+    {
+        "property_id": 80433,
+        "lat": -38.004325,
+        "lng": 145.151753,
+        "addr_street": "65 The Panorama Drive"
+    },
+    {
+        "property_id": 40090,
+        "lat": -37.69036865,
+        "lng": 145.047287,
+        "addr_street": "22 Penrith Crescent"
+    },
+    {
+        "property_id": 40249,
+        "lat": -37.67776489,
+        "lng": 145.0550537,
+        "addr_street": "281 McKimmies Rd"
+    },
+    {
+        "property_id": 35670,
+        "lat": -37.721189,
+        "lng": 145.00732,
+        "addr_street": "846 High Street"
+    },
+    {
+        "property_id": 21883,
+        "lat": -37.752796,
+        "lng": 144.950893,
+        "addr_street": "12 Saunders Street"
+    },
+    {
+        "property_id": 11948,
+        "lat": -37.712191,
+        "lng": 144.822263,
+        "addr_street": "883 Old Calder Highway"
+    },
+    {
+        "property_id": 34145,
+        "lat": -37.708708,
+        "lng": 145.020063,
+        "addr_street": "2 Borrie Street"
+    },
+    {
+        "property_id": 36940,
+        "lat": -37.659014,
+        "lng": 145.025884,
+        "addr_street": "17 Supply Drive"
+    },
+    {
+        "property_id": 22570,
+        "lat": -37.737148,
+        "lng": 144.972611,
+        "addr_street": "30 TANDERUM DRIVE"
+    },
+    {
+        "property_id": 63908,
+        "lat": -37.8003006,
+        "lng": 145.2949677,
+        "addr_street": "20, 354 MT DANDENONG ROAD"
+    },
+    {
+        "property_id": 46761,
+        "lat": -37.70336151,
+        "lng": 145.1657562,
+        "addr_street": "19 Woodland Way (Private Road)"
+    },
+    {
+        "property_id": 70078,
+        "lat": -37.872157,
+        "lng": 145.104565,
+        "addr_street": "41 Salisbury Road"
+    },
+    {
+        "property_id": 96550,
+        "lat": -37.999755,
+        "lng": 145.270082,
+        "addr_street": "16 MOUNTVIEW AVE"
+    },
+    {
+        "property_id": 31157,
+        "lat": -37.75952148,
+        "lng": 145.024292,
+        "addr_street": "339 Rossmoyne Street"
+    },
+    {
+        "property_id": 49386,
+        "lat": -37.807415,
+        "lng": 145.095227,
+        "addr_street": "30 Porter Road"
+    },
+    {
+        "property_id": 78793,
+        "lat": -37.9379425,
+        "lng": 145.1479797,
+        "addr_street": "2/42 Lewis Street"
+    },
+    {
+        "property_id": 41900,
+        "lat": -37.729922,
+        "lng": 145.092949,
+        "addr_street": "23 Rockaway Drive"
+    },
+    {
+        "property_id": 81615,
+        "lat": -37.982164,
+        "lng": 145.23801,
+        "addr_street": "1 Privet Court"
+    },
+    {
+        "property_id": 54323,
+        "lat": -37.82161331,
+        "lng": 145.0443115,
+        "addr_street": "26 Malmsbury Street"
+    },
+    {
+        "property_id": 46539,
+        "lat": -37.719499,
+        "lng": 145.152573,
+        "addr_street": "127 Bridge Street"
+    },
+    {
+        "property_id": 48155,
+        "lat": -37.807733,
+        "lng": 145.014258,
+        "addr_street": "24 Laver Street"
+    },
+    {
+        "property_id": 60796,
+        "lat": -37.832978,
+        "lng": 145.201876,
+        "addr_street": "5 Erilyn Court"
+    },
+    {
+        "property_id": 34813,
+        "lat": -37.724381,
+        "lng": 144.998052,
+        "addr_street": "38 Frankston Street"
+    },
+    {
+        "property_id": 40194,
+        "lat": -37.71731,
+        "lng": 145.031819,
+        "addr_street": "27 Browning  Street"
+    },
+    {
+        "property_id": 50164,
+        "lat": -37.77074,
+        "lng": 145.091268,
+        "addr_street": "32 Kandanga Grove"
+    },
+    {
+        "property_id": 29523,
+        "lat": -37.769323,
+        "lng": 145.008942,
+        "addr_street": "16 Wakanui Street"
+    },
+    {
+        "property_id": 21425,
+        "lat": -37.77424,
+        "lng": 144.957209,
+        "addr_street": "60 Gold Street"
+    },
+    {
+        "property_id": 65926,
+        "lat": -37.766793,
+        "lng": 145.313408,
+        "addr_street": "2 Barbara Court"
+    },
+    {
+        "property_id": 96743,
+        "lat": -38.007112,
+        "lng": 145.283421,
+        "addr_street": "30 Hyssop Drive"
+    },
+    {
+        "property_id": 64304,
+        "lat": -37.785484,
+        "lng": 145.268099,
+        "addr_street": "34 Binbrook Drive"
+    },
+    {
+        "property_id": 20747,
+        "lat": -37.762206,
+        "lng": 144.953021,
+        "addr_street": "2/16 Fraser Street"
+    },
+    {
+        "property_id": 45437,
+        "lat": -37.68412781,
+        "lng": 145.1045837,
+        "addr_street": "7 Palpera Tce"
+    },
+    {
+        "property_id": 1988,
+        "lat": -37.790368,
+        "lng": 144.880635,
+        "addr_street": "20 Suffolk Street"
+    },
+    {
+        "property_id": 56961,
+        "lat": -37.823091,
+        "lng": 145.07787,
+        "addr_street": "1 Boronia Street"
+    },
+    {
+        "property_id": 13378,
+        "lat": -37.704166,
+        "lng": 144.757657,
+        "addr_street": "67A Boberrit Wynd"
+    },
+    {
+        "property_id": 68561,
+        "lat": -37.852028,
+        "lng": 145.018419,
+        "addr_street": "5 Glassford Street"
+    },
+    {
+        "property_id": 71558,
+        "lat": -37.858838,
+        "lng": 145.22644,
+        "addr_street": "42 Amersham Drive"
+    },
+    {
+        "property_id": 26708,
+        "lat": -37.606151,
+        "lng": 144.936737,
+        "addr_street": "39  Hothlyn Drive"
+    },
+    {
+        "property_id": 26568,
+        "lat": -37.579802,
+        "lng": 144.93717,
+        "addr_street": "33 Parramatta Walk"
+    },
+    {
+        "property_id": 3576,
+        "lat": -37.814404,
+        "lng": 144.865997,
+        "addr_street": "46 Sanderson Street"
+    },
+    {
+        "property_id": 46081,
+        "lat": -37.719888,
+        "lng": 145.132759,
+        "addr_street": "41 Belmont Crescent"
+    },
+    {
+        "property_id": 6850,
+        "lat": -37.782112,
+        "lng": 144.83832,
+        "addr_street": "58 Hertford Road"
+    },
+    {
+        "property_id": 53291,
+        "lat": -37.820698,
+        "lng": 145.005259,
+        "addr_street": "42 Hunter Street"
+    },
+    {
+        "property_id": 4817,
+        "lat": -37.859762,
+        "lng": 144.843579,
+        "addr_street": "10 Noordenne Avenue"
+    },
+    {
+        "property_id": 26352,
+        "lat": -37.604992,
+        "lng": 144.914399,
+        "addr_street": "3 Kapalua Place"
+    },
+    {
+        "property_id": 33298,
+        "lat": -37.736336,
+        "lng": 145.005135,
+        "addr_street": "90 Pender Street"
+    },
+    {
+        "property_id": 49184,
+        "lat": -37.806375,
+        "lng": 145.081855,
+        "addr_street": "2 Yongala Street"
+    },
+    {
+        "property_id": 1685,
+        "lat": -37.808658,
+        "lng": 144.883991,
+        "addr_street": "112 Williamstown Road"
+    },
+    {
+        "property_id": 24398,
+        "lat": -37.718035,
+        "lng": 144.975644,
+        "addr_street": "4 Sahara Way"
+    },
+    {
+        "property_id": 74659,
+        "lat": -37.90490341,
+        "lng": 145.0597534,
+        "addr_street": "16 Park View Drive"
+    },
+    {
+        "property_id": 17728,
+        "lat": -37.711951,
+        "lng": 144.921788,
+        "addr_street": "8 Mackinnon Grove"
+    },
+    {
+        "property_id": 28470,
+        "lat": -37.797352,
+        "lng": 144.991224,
+        "addr_street": "120  Keele Street"
+    },
+    {
+        "property_id": 17652,
+        "lat": -37.703624,
+        "lng": 144.931424,
+        "addr_street": "72 Melbourne Avenue"
+    },
+    {
+        "property_id": 39000,
+        "lat": -37.766882,
+        "lng": 145.048422,
+        "addr_street": "7 Sherwood Road"
+    },
+    {
+        "property_id": 59290,
+        "lat": -37.810528,
+        "lng": 145.19902,
+        "addr_street": "10 Dawe Road"
+    },
+    {
+        "property_id": 73311,
+        "lat": -37.85297,
+        "lng": 145.27152,
+        "addr_street": "23 Devenish Road"
+    },
+    {
+        "property_id": 764,
+        "lat": -37.79583359,
+        "lng": 144.8940735,
+        "addr_street": "28 Central Avenue"
+    },
+    {
+        "property_id": 68526,
+        "lat": -37.858749,
+        "lng": 145.01991,
+        "addr_street": "4/51 Kooyong Road"
+    },
+    {
+        "property_id": 7635,
+        "lat": -37.741004,
+        "lng": 144.765783,
+        "addr_street": "75 Entally Drive"
+    },
+    {
+        "property_id": 95204,
+        "lat": -37.92483,
+        "lng": 145.038605,
+        "addr_street": "22 Mitchell Street"
+    },
+    {
+        "property_id": 55052,
+        "lat": -37.839195,
+        "lng": 145.080865,
+        "addr_street": "142A Wattle Valley Road"
+    },
+    {
+        "property_id": 58184,
+        "lat": -37.828052,
+        "lng": 145.138397,
+        "addr_street": "5 Marian Court"
+    },
+    {
+        "property_id": 38377,
+        "lat": -37.7823387,
+        "lng": 145.023431,
+        "addr_street": "570 Heidelberg Road"
+    },
+    {
+        "property_id": 72717,
+        "lat": -37.854962,
+        "lng": 145.268528,
+        "addr_street": "1/151 Scoresby Road"
+    },
+    {
+        "property_id": 57940,
+        "lat": -37.81635666,
+        "lng": 145.1490479,
+        "addr_street": "29 O'Hara Street"
+    },
+    {
+        "property_id": 17325,
+        "lat": -37.69846,
+        "lng": 144.934135,
+        "addr_street": "48 Hilda Street"
+    },
+    {
+        "property_id": 92560,
+        "lat": -37.998795,
+        "lng": 145.090297,
+        "addr_street": "1/61 White Street"
+    },
+    {
+        "property_id": 88500,
+        "lat": -37.949779,
+        "lng": 145.033171,
+        "addr_street": "15 Rose Street"
+    },
+    {
+        "property_id": 66405,
+        "lat": -37.783499,
+        "lng": 145.314761,
+        "addr_street": "43 Winyard Drive"
+    },
+    {
+        "property_id": 36548,
+        "lat": -37.66352,
+        "lng": 145.027952,
+        "addr_street": "7 Derna Crescent"
+    },
+    {
+        "property_id": 94962,
+        "lat": -37.917101,
+        "lng": 145.025199,
+        "addr_street": "178 Centre Road"
+    },
+    {
+        "property_id": 11649,
+        "lat": -37.713675,
+        "lng": 144.82602,
+        "addr_street": "1 Faye Crescent"
+    },
+    {
+        "property_id": 28515,
+        "lat": -37.796075,
+        "lng": 144.991829,
+        "addr_street": "15 Forest Street"
+    },
+    {
+        "property_id": 12857,
+        "lat": -37.704001,
+        "lng": 144.746686,
+        "addr_street": "2A Balmoral Close"
+    },
+    {
+        "property_id": 10672,
+        "lat": -37.78501,
+        "lng": 144.924198,
+        "addr_street": "55 Illawara Road"
+    },
+    {
+        "property_id": 85312,
+        "lat": -37.883033,
+        "lng": 145.004189,
+        "addr_street": "17 Staniland Grove"
+    },
+    {
+        "property_id": 36468,
+        "lat": -37.661198,
+        "lng": 144.992352,
+        "addr_street": "46 Moffat Drv"
+    },
+    {
+        "property_id": 67568,
+        "lat": -37.750218,
+        "lng": 145.361391,
+        "addr_street": "53 Britannia"
+    },
+    {
+        "property_id": 62240,
+        "lat": -37.795283,
+        "lng": 145.250675,
+        "addr_street": "7 Kismet Close"
+    },
+    {
+        "property_id": 14013,
+        "lat": -37.757348,
+        "lng": 144.897879,
+        "addr_street": "2 Roach Avenue"
+    },
+    {
+        "property_id": 65800,
+        "lat": -37.788083,
+        "lng": 145.315231,
+        "addr_street": "15 Reay Road"
+    },
+    {
+        "property_id": 681,
+        "lat": -37.80782318,
+        "lng": 144.8872223,
+        "addr_street": "24 Hamilton Street"
+    },
+    {
+        "property_id": 91285,
+        "lat": -37.979209,
+        "lng": 145.036172,
+        "addr_street": "15 Clonmore Street"
+    },
+    {
+        "property_id": 21037,
+        "lat": -37.776028,
+        "lng": 144.957792,
+        "addr_street": "314 Barkly Street"
+    },
+    {
+        "property_id": 15544,
+        "lat": -37.739369,
+        "lng": 144.890274,
+        "addr_street": "12 Jackson Street"
+    },
+    {
+        "property_id": 54229,
+        "lat": -37.813996,
+        "lng": 145.016481,
+        "addr_street": "2/10 Myrtle Street"
+    },
+    {
+        "property_id": 9655,
+        "lat": -37.866772,
+        "lng": 144.721151,
+        "addr_street": "78 Parkvista Drive"
+    },
+    {
+        "property_id": 66161,
+        "lat": -37.783206,
+        "lng": 145.312374,
+        "addr_street": "3 Aintree Street"
+    },
+    {
+        "property_id": 75562,
+        "lat": -37.898927,
+        "lng": 145.101499,
+        "addr_street": "1/1520 Dandenong Road"
+    },
+    {
+        "property_id": 44961,
+        "lat": -37.69504929,
+        "lng": 145.1012116,
+        "addr_street": "36 Warriparri Crescent"
+    },
+    {
+        "property_id": 19223,
+        "lat": -37.68997574,
+        "lng": 144.9339294,
+        "addr_street": "8 TRETHOWAN STREET"
+    },
+    {
+        "property_id": 13128,
+        "lat": -37.689824,
+        "lng": 144.758728,
+        "addr_street": "4/19 Argyll Street"
+    },
+    {
+        "property_id": 37957,
+        "lat": -37.775264,
+        "lng": 145.024815,
+        "addr_street": "12 Darling Street"
+    },
+    {
+        "property_id": 54249,
+        "lat": -37.8158213,
+        "lng": 145.0373925,
+        "addr_street": "20 Sercombe Grove"
+    },
+    {
+        "property_id": 30705,
+        "lat": -37.760778,
+        "lng": 145.009733,
+        "addr_street": "134 Clarendon Street"
+    },
+    {
+        "property_id": 44015,
+        "lat": -37.702934,
+        "lng": 145.098883,
+        "addr_street": "1/23 Lorimer Street"
+    },
+    {
+        "property_id": 16767,
+        "lat": -37.710972,
+        "lng": 144.94778,
+        "addr_street": "20 Bedford Street"
+    },
+    {
+        "property_id": 56609,
+        "lat": -37.85144806,
+        "lng": 145.124939,
+        "addr_street": "344 Burwood Highway"
+    },
+    {
+        "property_id": 39818,
+        "lat": -37.716643,
+        "lng": 145.034308,
+        "addr_street": "17 Flag Street"
+    },
+    {
+        "property_id": 87082,
+        "lat": -37.91155,
+        "lng": 145.005517,
+        "addr_street": "74 Durrant Street"
+    },
+    {
+        "property_id": 50910,
+        "lat": -37.79534,
+        "lng": 145.136563,
+        "addr_street": "18 Church Road"
+    },
+    {
+        "property_id": 78106,
+        "lat": -37.931211,
+        "lng": 145.164297,
+        "addr_street": "48 Baird Street"
+    },
+    {
+        "property_id": 73956,
+        "lat": -37.846438,
+        "lng": 145.301215,
+        "addr_street": "7 Southern Aurora Place"
+    },
+    {
+        "property_id": 5238,
+        "lat": -37.859419,
+        "lng": 144.8456,
+        "addr_street": "5 Twentyman Court"
+    },
+    {
+        "property_id": 47094,
+        "lat": -37.696979,
+        "lng": 145.156829,
+        "addr_street": "36 Moola Place"
+    },
+    {
+        "property_id": 5229,
+        "lat": -37.866775,
+        "lng": 144.816878,
+        "addr_street": "5 Boyd Street"
+    },
+    {
+        "property_id": 96720,
+        "lat": -37.998919,
+        "lng": 145.272141,
+        "addr_street": "3 Caron Close"
+    },
+    {
+        "property_id": 61959,
+        "lat": -37.821676,
+        "lng": 145.230738,
+        "addr_street": "40 Greenwood Avenue"
+    },
+    {
+        "property_id": 86024,
+        "lat": -37.91864777,
+        "lng": 145.0033264,
+        "addr_street": "113 Roslyn Street"
+    },
+    {
+        "property_id": 90571,
+        "lat": -37.975047,
+        "lng": 145.078242,
+        "addr_street": "33 Voltri Street"
+    },
+    {
+        "property_id": 62466,
+        "lat": -37.829589,
+        "lng": 145.257123,
+        "addr_street": "1/3 Louis Street"
+    },
+    {
+        "property_id": 42136,
+        "lat": -37.743794,
+        "lng": 145.049167,
+        "addr_street": "36 Law Street"
+    },
+    {
+        "property_id": 42758,
+        "lat": -37.7104808,
+        "lng": 145.0650269,
+        "addr_street": "10 Manor Green"
+    },
+    {
+        "property_id": 79163,
+        "lat": -37.958734,
+        "lng": 145.144518,
+        "addr_street": "5 Olinda Avenue"
+    },
+    {
+        "property_id": 78987,
+        "lat": -37.949416,
+        "lng": 145.14801,
+        "addr_street": "34 Balmoral Avenue"
+    },
+    {
+        "property_id": 182,
+        "lat": -37.802947,
+        "lng": 144.892182,
+        "addr_street": "104 Victoria Street"
+    },
+    {
+        "property_id": 42286,
+        "lat": -37.738261,
+        "lng": 145.078963,
+        "addr_street": "47 McCrae Road"
+    },
+    {
+        "property_id": 21745,
+        "lat": -37.75259781,
+        "lng": 144.9514923,
+        "addr_street": "10 Hawthorn Street"
+    },
+    {
+        "property_id": 17689,
+        "lat": -37.69542,
+        "lng": 144.938138,
+        "addr_street": "76 MORLEY STREET"
+    },
+    {
+        "property_id": 59701,
+        "lat": -37.821947,
+        "lng": 145.203443,
+        "addr_street": "24 Willow Avenue"
+    },
+    {
+        "property_id": 14034,
+        "lat": -37.744719,
+        "lng": 144.923447,
+        "addr_street": "20 Alfred Road"
+    },
+    {
+        "property_id": 96244,
+        "lat": -37.913123,
+        "lng": 145.045986,
+        "addr_street": "8 Malcolm Street"
+    },
+    {
+        "property_id": 22425,
+        "lat": -37.740092,
+        "lng": 144.951638,
+        "addr_street": "265 Bell Street"
+    },
+    {
+        "property_id": 59652,
+        "lat": -37.820179,
+        "lng": 145.194843,
+        "addr_street": "22 Percy Street"
+    },
+    {
+        "property_id": 43871,
+        "lat": -37.710931,
+        "lng": 145.09355,
+        "addr_street": "6 Kardinia Street"
+    },
+    {
+        "property_id": 38496,
+        "lat": -37.766439,
+        "lng": 145.051208,
+        "addr_street": "1/117 Locksley Road"
+    },
+    {
+        "property_id": 17733,
+        "lat": -37.707166,
+        "lng": 144.952661,
+        "addr_street": "8 St James Street"
+    },
+    {
+        "property_id": 25731,
+        "lat": -37.576503,
+        "lng": 144.930021,
+        "addr_street": "186 Grand Boulevard"
+    },
+    {
+        "property_id": 82785,
+        "lat": -37.903382,
+        "lng": 145.268229,
+        "addr_street": "44 Kilcunda Drive"
+    },
+    {
+        "property_id": 94893,
+        "lat": -37.930998,
+        "lng": 145.045513,
+        "addr_street": "16 Marquis Road"
+    },
+    {
+        "property_id": 70731,
+        "lat": -37.880847,
+        "lng": 145.098087,
+        "addr_street": "32 Aloomba Street"
+    },
+    {
+        "property_id": 68100,
+        "lat": -37.846856,
+        "lng": 145.006007,
+        "addr_street": "42 Evelina Road"
+    },
+    {
+        "property_id": 10360,
+        "lat": -37.781863,
+        "lng": 144.927969,
+        "addr_street": "3 Farnham Street"
+    },
+    {
+        "property_id": 48250,
+        "lat": -37.80837,
+        "lng": 145.025288,
+        "addr_street": "3 Merrion Grove"
+    },
+    {
+        "property_id": 4723,
+        "lat": -37.839376,
+        "lng": 144.865421,
+        "addr_street": "9 Charlotte Street"
+    },
+    {
+        "property_id": 30520,
+        "lat": -37.77696609,
+        "lng": 144.9943237,
+        "addr_street": "95 Charles Street"
+    },
+    {
+        "property_id": 86262,
+        "lat": -37.902228,
+        "lng": 145.004742,
+        "addr_street": "19 Grandview Road"
+    },
+    {
+        "property_id": 94935,
+        "lat": -37.908462,
+        "lng": 145.045447,
+        "addr_street": "17 Lewis Street"
+    },
+    {
+        "property_id": 53296,
+        "lat": -37.8138,
+        "lng": 144.99446,
+        "addr_street": "42 Peers Street"
+    },
+    {
+        "property_id": 81125,
+        "lat": -37.984467,
+        "lng": 145.206426,
+        "addr_street": "3 Napier Street"
+    },
+    {
+        "property_id": 90003,
+        "lat": -37.95096207,
+        "lng": 145.0583801,
+        "addr_street": "138 Chesterville Road"
+    },
+    {
+        "property_id": 29674,
+        "lat": -37.773914,
+        "lng": 145.010184,
+        "addr_street": "20 Hartley Street"
+    },
+    {
+        "property_id": 17652,
+        "lat": -37.703624,
+        "lng": 144.931424,
+        "addr_street": "72 Melbourne Avenue"
+    },
+    {
+        "property_id": 42201,
+        "lat": -37.738496,
+        "lng": 145.084197,
+        "addr_street": "4 Lyon Road"
+    },
+    {
+        "property_id": 49168,
+        "lat": -37.811589,
+        "lng": 145.080727,
+        "addr_street": "2 Henry Street"
+    },
+    {
+        "property_id": 73454,
+        "lat": -37.852725,
+        "lng": 145.269465,
+        "addr_street": "3 Devenish Road"
+    },
+    {
+        "property_id": 14313,
+        "lat": -37.754207,
+        "lng": 144.894677,
+        "addr_street": "336 Buckley Street"
+    },
+    {
+        "property_id": 52915,
+        "lat": -37.81998062,
+        "lng": 144.9970093,
+        "addr_street": "29 Waltham Street"
+    },
+    {
+        "property_id": 14539,
+        "lat": -37.75880051,
+        "lng": 144.8947144,
+        "addr_street": "5 Arthur Street"
+    },
+    {
+        "property_id": 93940,
+        "lat": -38.055609,
+        "lng": 145.129917,
+        "addr_street": "43 Scotch Parade"
+    },
+    {
+        "property_id": 67280,
+        "lat": -37.7712063,
+        "lng": 145.3542104,
+        "addr_street": "26 Bella Vista Way"
+    },
+    {
+        "property_id": 9594,
+        "lat": -37.858802,
+        "lng": 144.72193,
+        "addr_street": "6 Guilford Court"
+    },
+    {
+        "property_id": 6692,
+        "lat": -37.780073,
+        "lng": 144.840619,
+        "addr_street": "4 Kathleen Court"
+    },
+    {
+        "property_id": 76039,
+        "lat": -37.888633,
+        "lng": 145.078994,
+        "addr_street": "3 Fellows Street"
+    },
+    {
+        "property_id": 86007,
+        "lat": -37.924602,
+        "lng": 144.998872,
+        "addr_street": "11 Whyte Street"
+    },
+    {
+        "property_id": 43436,
+        "lat": -37.70180511,
+        "lng": 145.0852966,
+        "addr_street": "10 Meakin Street"
+    },
+    {
+        "property_id": 23353,
+        "lat": -37.64611816,
+        "lng": 144.8928375,
+        "addr_street": "10 Motherwell avenue"
+    },
+    {
+        "property_id": 93616,
+        "lat": -37.991256,
+        "lng": 145.071923,
+        "addr_street": "7 Dover Place"
+    },
+    {
+        "property_id": 9893,
+        "lat": -37.783465,
+        "lng": 144.928301,
+        "addr_street": "1 Waltham Street"
+    },
+    {
+        "property_id": 44879,
+        "lat": -37.709977,
+        "lng": 145.100287,
+        "addr_street": "3/93 Nell Street"
+    },
+    {
+        "property_id": 26313,
+        "lat": -37.587909,
+        "lng": 144.928981,
+        "addr_street": "3 Brookside Court"
+    },
+    {
+        "property_id": 46561,
+        "lat": -37.71368,
+        "lng": 145.153719,
+        "addr_street": "13 Lilian Parade"
+    },
+    {
+        "property_id": 88167,
+        "lat": -37.937332,
+        "lng": 145.046397,
+        "addr_street": "26 Clay Street"
+    },
+    {
+        "property_id": 46906,
+        "lat": -37.70082092,
+        "lng": 145.1564484,
+        "addr_street": "24 Coolabah Drive"
+    },
+    {
+        "property_id": 46752,
+        "lat": -37.71593,
+        "lng": 145.160837,
+        "addr_street": "19 Hartland Way"
+    },
+    {
+        "property_id": 83416,
+        "lat": -37.85678482,
+        "lng": 144.9944916,
+        "addr_street": "11 Somerset Place"
+    },
+    {
+        "property_id": 37901,
+        "lat": -37.778481,
+        "lng": 145.026014,
+        "addr_street": "1/35 Fulham Road"
+    },
+    {
+        "property_id": 36770,
+        "lat": -37.628783,
+        "lng": 145.034661,
+        "addr_street": "12 Billabong Circuit"
+    },
+    {
+        "property_id": 71651,
+        "lat": -37.852049,
+        "lng": 145.24006,
+        "addr_street": "536 Boronia Road"
+    },
+    {
+        "property_id": 35277,
+        "lat": -37.704912,
+        "lng": 145.025105,
+        "addr_street": "6 Argyle Street"
+    },
+    {
+        "property_id": 47632,
+        "lat": -37.729564,
+        "lng": 145.138717,
+        "addr_street": "9 Valley Park Grove"
+    },
+    {
+        "property_id": 61453,
+        "lat": -37.818552,
+        "lng": 145.235785,
+        "addr_street": "19A Ford Street"
+    },
+    {
+        "property_id": 39289,
+        "lat": -37.710913,
+        "lng": 145.052848,
+        "addr_street": "1 Kahans Place"
+    },
+    {
+        "property_id": 8221,
+        "lat": -37.750286,
+        "lng": 144.752084,
+        "addr_street": "2 Cooinda Close"
+    },
+    {
+        "property_id": 1453,
+        "lat": -37.808161,
+        "lng": 144.892705,
+        "addr_street": "8 Perry Street"
+    },
+    {
+        "property_id": 31074,
+        "lat": -37.760484,
+        "lng": 144.998254,
+        "addr_street": "29 Shaftesbury Parade"
+    },
+    {
+        "property_id": 51013,
+        "lat": -37.793838,
+        "lng": 145.142243,
+        "addr_street": "2/77 Wetherby Road"
+    },
+    {
+        "property_id": 9848,
+        "lat": -37.890331,
+        "lng": 144.638031,
+        "addr_street": "54 Rowes Road"
+    },
+    {
+        "property_id": 31133,
+        "lat": -37.763515,
+        "lng": 145.01922,
+        "addr_street": "324 Gillies Street"
+    },
+    {
+        "property_id": 35636,
+        "lat": -37.7043,
+        "lng": 145.029438,
+        "addr_street": "80 Darebin Boulevard"
+    },
+    {
+        "property_id": 27326,
+        "lat": -37.5731289,
+        "lng": 144.9237087,
+        "addr_street": "6  Black Range Avenue"
+    },
+    {
+        "property_id": 27618,
+        "lat": -37.587355,
+        "lng": 144.937988,
+        "addr_street": "7 Parkstone View"
+    },
+    {
+        "property_id": 624,
+        "lat": -37.799614,
+        "lng": 144.888213,
+        "addr_street": "215 Gordon"
+    },
+    {
+        "property_id": 15648,
+        "lat": -37.737574,
+        "lng": 144.881504,
+        "addr_street": "27 Newman Street"
+    },
+    {
+        "property_id": 68290,
+        "lat": -37.85524,
+        "lng": 145.025196,
+        "addr_street": "12 Tower Court"
+    },
+    {
+        "property_id": 89028,
+        "lat": -37.953328,
+        "lng": 145.022256,
+        "addr_street": "8 Frances Street"
+    },
+    {
+        "property_id": 19729,
+        "lat": -37.669633,
+        "lng": 144.89724,
+        "addr_street": "4 Davidson Court"
+    },
+    {
+        "property_id": 58198,
+        "lat": -37.81340027,
+        "lng": 145.1489868,
+        "addr_street": "51 Stanley Grove"
+    },
+    {
+        "property_id": 89981,
+        "lat": -37.97047043,
+        "lng": 145.0597076,
+        "addr_street": "13 Tuck Street"
+    },
+    {
+        "property_id": 89427,
+        "lat": -37.954632,
+        "lng": 145.020883,
+        "addr_street": "292 Bluff Road"
+    },
+    {
+        "property_id": 73574,
+        "lat": -37.870635,
+        "lng": 145.288113,
+        "addr_street": "35 Currawa Drive"
+    },
+    {
+        "property_id": 4446,
+        "lat": -37.836941,
+        "lng": 144.868396,
+        "addr_street": "40A Graham Street"
+    },
+    {
+        "property_id": 83756,
+        "lat": -37.85692978,
+        "lng": 144.993988,
+        "addr_street": "25 Elm Place"
+    },
+    {
+        "property_id": 76633,
+        "lat": -37.916833,
+        "lng": 145.137298,
+        "addr_street": "19 Morton Street"
+    },
+    {
+        "property_id": 42281,
+        "lat": -37.750925,
+        "lng": 145.07704,
+        "addr_street": "47 Beverley Road"
+    },
+    {
+        "property_id": 52917,
+        "lat": -37.821403,
+        "lng": 145.01332,
+        "addr_street": "29 Westbank Terrace"
+    },
+    {
+        "property_id": 83489,
+        "lat": -37.849667,
+        "lng": 145.000898,
+        "addr_street": "13 Mackay Street"
+    },
+    {
+        "property_id": 1537,
+        "lat": -37.794318,
+        "lng": 144.882375,
+        "addr_street": "91 Summerhill Road"
+    },
+    {
+        "property_id": 34719,
+        "lat": -37.730361,
+        "lng": 145.03383,
+        "addr_street": "33 Seston Street"
+    },
+    {
+        "property_id": 59783,
+        "lat": -37.809435,
+        "lng": 145.198386,
+        "addr_street": "3 Dalmor Avenue"
+    },
+    {
+        "property_id": 51217,
+        "lat": -37.795059,
+        "lng": 145.1367387,
+        "addr_street": "3 Norfolk Circuit"
+    },
+    {
+        "property_id": 51757,
+        "lat": -37.801038,
+        "lng": 145.18311,
+        "addr_street": "10 Kevin Court"
+    },
+    {
+        "property_id": 4122,
+        "lat": -37.847835,
+        "lng": 144.871566,
+        "addr_street": "14 Holloway Street"
+    },
+    {
+        "property_id": 30183,
+        "lat": -37.771917,
+        "lng": 144.997274,
+        "addr_street": "50 Helen Street"
+    },
+    {
+        "property_id": 49639,
+        "lat": -37.805532,
+        "lng": 145.091024,
+        "addr_street": "6 Bruce Street"
+    },
+    {
+        "property_id": 57151,
+        "lat": -37.82090759,
+        "lng": 145.0720825,
+        "addr_street": "21 Alexandra Avenue"
+    },
+    {
+        "property_id": 70518,
+        "lat": -37.87894821,
+        "lng": 145.1055908,
+        "addr_street": "137 Power Avenue"
+    },
+    {
+        "property_id": 89771,
+        "lat": -37.963506,
+        "lng": 145.044682,
+        "addr_street": "1 Wembley Avenue"
+    },
+    {
+        "property_id": 5947,
+        "lat": -37.781038,
+        "lng": 144.836944,
+        "addr_street": "1 Kinnane Crescent"
+    },
+    {
+        "property_id": 27058,
+        "lat": -37.580275,
+        "lng": 144.907124,
+        "addr_street": "5 Applewood Way"
+    },
+    {
+        "property_id": 95370,
+        "lat": -37.903793,
+        "lng": 145.050818,
+        "addr_street": "27 Wallen Road"
+    },
+    {
+        "property_id": 44923,
+        "lat": -37.712224,
+        "lng": 145.105042,
+        "addr_street": "33 Amiet Street"
+    },
+    {
+        "property_id": 58762,
+        "lat": -37.809565,
+        "lng": 145.167965,
+        "addr_street": "24 Robyn Drive"
+    },
+    {
+        "property_id": 44202,
+        "lat": -37.700069,
+        "lng": 145.108822,
+        "addr_street": "12 St Helena Road"
+    },
+    {
+        "property_id": 65631,
+        "lat": -37.794877,
+        "lng": 145.319574,
+        "addr_street": "100 Cambridge Road"
+    },
+    {
+        "property_id": 84351,
+        "lat": -37.84655,
+        "lng": 144.987247,
+        "addr_street": "76 Donald Street"
+    },
+    {
+        "property_id": 24644,
+        "lat": -37.677852,
+        "lng": 144.965032,
+        "addr_street": "11 Blackwood Crescent"
+    },
+    {
+        "property_id": 74618,
+        "lat": -37.885829,
+        "lng": 145.069954,
+        "addr_street": "15 Hobart Road"
+    },
+    {
+        "property_id": 4361,
+        "lat": -37.841832,
+        "lng": 144.866486,
+        "addr_street": "31 Carmen Street"
+    },
+    {
+        "property_id": 45393,
+        "lat": -37.70267868,
+        "lng": 145.1110535,
+        "addr_street": "69 Hume Street"
+    },
+    {
+        "property_id": 53496,
+        "lat": -37.815436,
+        "lng": 145.003309,
+        "addr_street": "56 Little Kent Street"
+    },
+    {
+        "property_id": 22313,
+        "lat": -37.739671,
+        "lng": 144.963041,
+        "addr_street": "22 Main Street"
+    },
+    {
+        "property_id": 90781,
+        "lat": -37.963869,
+        "lng": 145.061915,
+        "addr_street": "5 Silver Street"
+    },
+    {
+        "property_id": 93773,
+        "lat": -38.022797,
+        "lng": 145.100034,
+        "addr_street": "93 Station Street"
+    },
+    {
+        "property_id": 41861,
+        "lat": -37.747996,
+        "lng": 145.068228,
+        "addr_street": "213 Cape Street"
+    },
+    {
+        "property_id": 39194,
+        "lat": -37.750666,
+        "lng": 145.043418,
+        "addr_street": "301 Bell Street"
+    },
+    {
+        "property_id": 85820,
+        "lat": -37.882699,
+        "lng": 145.002528,
+        "addr_street": "73 Regent Street"
+    },
+    {
+        "property_id": 75641,
+        "lat": -37.89944839,
+        "lng": 145.0960693,
+        "addr_street": "113 Atherton Road"
+    },
+    {
+        "property_id": 40325,
+        "lat": -37.694265,
+        "lng": 145.06495,
+        "addr_street": "3 Shelley Avenue"
+    },
+    {
+        "property_id": 389,
+        "lat": -37.803254,
+        "lng": 144.890665,
+        "addr_street": "155 Buckley Street"
+    },
+    {
+        "property_id": 72616,
+        "lat": -37.855231,
+        "lng": 145.257738,
+        "addr_street": "86 Sasses Avenue"
+    },
+    {
+        "property_id": 75949,
+        "lat": -37.900909,
+        "lng": 145.094964,
+        "addr_street": "22 Regent Street"
+    },
+    {
+        "property_id": 93375,
+        "lat": -38.000452,
+        "lng": 145.082634,
+        "addr_street": "446 Como Parade West"
+    },
+    {
+        "property_id": 25511,
+        "lat": -37.570812,
+        "lng": 144.92579,
+        "addr_street": "15 Pinnacle Drive"
+    },
+    {
+        "property_id": 81946,
+        "lat": -37.98836,
+        "lng": 145.237827,
+        "addr_street": "20A Jacaranda Street"
+    },
+    {
+        "property_id": 19286,
+        "lat": -37.673871,
+        "lng": 144.936023,
+        "addr_street": "94 DALLAS DRIVE"
+    },
+    {
+        "property_id": 2840,
+        "lat": -37.81176376,
+        "lng": 144.8878784,
+        "addr_street": "14 Hood Street"
+    },
+    {
+        "property_id": 68650,
+        "lat": -37.849654,
+        "lng": 145.013851,
+        "addr_street": "756 Malvern Road"
+    },
+    {
+        "property_id": 56739,
+        "lat": -37.858414,
+        "lng": 145.097097,
+        "addr_street": "49 Harrison Avenue"
+    },
+    {
+        "property_id": 23334,
+        "lat": -37.649477,
+        "lng": 144.898085,
+        "addr_street": "1/9 Wallace Drive"
+    },
+    {
+        "property_id": 94021,
+        "lat": -38.058575,
+        "lng": 145.130147,
+        "addr_street": "7 Harold Street"
+    },
+    {
+        "property_id": 50071,
+        "lat": -37.7656517,
+        "lng": 145.0950165,
+        "addr_street": "24 Pleasant Road"
+    },
+    {
+        "property_id": 60318,
+        "lat": -37.804429,
+        "lng": 145.18881,
+        "addr_street": "9 Andover  Avenue"
+    },
+    {
+        "property_id": 56239,
+        "lat": -37.855844,
+        "lng": 145.128882,
+        "addr_street": "15 Pearce Street"
+    },
+    {
+        "property_id": 9985,
+        "lat": -37.79272842,
+        "lng": 144.9307861,
+        "addr_street": "117 Eastwood st"
+    },
+    {
+        "property_id": 27932,
+        "lat": -37.588612,
+        "lng": 144.932287,
+        "addr_street": "9 Hybrid Court"
+    },
+    {
+        "property_id": 72980,
+        "lat": -37.848139,
+        "lng": 145.295957,
+        "addr_street": "15 Blythe Avenue"
+    },
+    {
+        "property_id": 75731,
+        "lat": -37.906141,
+        "lng": 145.106294,
+        "addr_street": "14 Greville Street"
+    },
+    {
+        "property_id": 82165,
+        "lat": -37.994781,
+        "lng": 145.237713,
+        "addr_street": "4 Box Street"
+    },
+    {
+        "property_id": 9199,
+        "lat": -37.881861,
+        "lng": 144.753403,
+        "addr_street": "85 Shane Avenue"
+    },
+    {
+        "property_id": 89714,
+        "lat": -37.951333,
+        "lng": 145.014993,
+        "addr_street": "91 Sandringham Road"
+    },
+    {
+        "property_id": 51430,
+        "lat": -37.783458,
+        "lng": 145.132514,
+        "addr_street": "43 Turana Street"
+    },
+    {
+        "property_id": 27555,
+        "lat": -37.578414,
+        "lng": 144.936503,
+        "addr_street": "7 Creighton Way"
+    },
+    {
+        "property_id": 4684,
+        "lat": -37.839587,
+        "lng": 144.876905,
+        "addr_street": "80 Newcastle Street"
+    },
+    {
+        "property_id": 52914,
+        "lat": -37.82256,
+        "lng": 145.003838,
+        "addr_street": "29 Wall Street"
+    },
+    {
+        "property_id": 55191,
+        "lat": -37.834202,
+        "lng": 145.064678,
+        "addr_street": "19 Peppin Street"
+    },
+    {
+        "property_id": 19003,
+        "lat": -37.664685,
+        "lng": 144.928224,
+        "addr_street": "539 Barry Road"
+    },
+    {
+        "property_id": 59037,
+        "lat": -37.814627,
+        "lng": 145.185197,
+        "addr_street": "54 Dunlavin Road"
+    },
+    {
+        "property_id": 4350,
+        "lat": -37.842769,
+        "lng": 144.870985,
+        "addr_street": "3/24 Laurie Street"
+    },
+    {
+        "property_id": 65927,
+        "lat": -37.776227,
+        "lng": 145.33964,
+        "addr_street": "2 Blue Ridge Drive"
+    },
+    {
+        "property_id": 51705,
+        "lat": -37.789622,
+        "lng": 145.124666,
+        "addr_street": "85 Tram Road"
+    },
+    {
+        "property_id": 49466,
+        "lat": -37.806244,
+        "lng": 145.067697,
+        "addr_street": "4 Canyon Street"
+    },
+    {
+        "property_id": 59628,
+        "lat": -37.80899429,
+        "lng": 145.1871338,
+        "addr_street": "21 Dunfield Avenue"
+    },
+    {
+        "property_id": 51976,
+        "lat": -37.803238,
+        "lng": 145.174916,
+        "addr_street": "66 Darvall Street"
+    },
+    {
+        "property_id": 66939,
+        "lat": -37.7451,
+        "lng": 145.345199,
+        "addr_street": "11 The Gateway"
+    },
+    {
+        "property_id": 41030,
+        "lat": -37.696508,
+        "lng": 145.052407,
+        "addr_street": "67 Nickson Street"
+    },
+    {
+        "property_id": 71588,
+        "lat": -37.86184,
+        "lng": 145.219348,
+        "addr_street": "48 Milpera Crescent"
+    },
+    {
+        "property_id": 79499,
+        "lat": -37.98357391,
+        "lng": 145.1848908,
+        "addr_street": "10 Apollo Court"
+    },
+    {
+        "property_id": 58276,
+        "lat": -37.821813,
+        "lng": 145.149055,
+        "addr_street": "66 Laburnum Street"
+    },
+    {
+        "property_id": 12153,
+        "lat": -37.723262,
+        "lng": 144.779409,
+        "addr_street": "11  Masefield Court"
+    },
+    {
+        "property_id": 87247,
+        "lat": -37.917943,
+        "lng": 144.989032,
+        "addr_street": "9A Manor Street"
+    },
+    {
+        "property_id": 83093,
+        "lat": -37.88248825,
+        "lng": 145.2491303,
+        "addr_street": "20 Mistletoe Close"
+    },
+    {
+        "property_id": 53181,
+        "lat": -37.82093811,
+        "lng": 145.0068512,
+        "addr_street": "38 Neptune Street"
+    },
+    {
+        "property_id": 10319,
+        "lat": -37.795227,
+        "lng": 144.928293,
+        "addr_street": "26 Gower Street"
+    },
+    {
+        "property_id": 61612,
+        "lat": -37.778493,
+        "lng": 145.239761,
+        "addr_street": "24 Little John Road"
+    },
+    {
+        "property_id": 34563,
+        "lat": -37.728381,
+        "lng": 145.017243,
+        "addr_street": "2B Ethel Grove"
+    },
+    {
+        "property_id": 15977,
+        "lat": -37.7056222,
+        "lng": 144.8947923,
+        "addr_street": "18 Daffodil Court"
+    },
+    {
+        "property_id": 31740,
+        "lat": -37.735963,
+        "lng": 145.011414,
+        "addr_street": "11 Youngman St"
+    },
+    {
+        "property_id": 65667,
+        "lat": -37.761349,
+        "lng": 145.320881,
+        "addr_street": "11 Greenbank Drive"
+    },
+    {
+        "property_id": 41283,
+        "lat": -37.695687,
+        "lng": 145.041473,
+        "addr_street": "9 Norris Crescent"
+    },
+    {
+        "property_id": 84612,
+        "lat": -37.87771,
+        "lng": 144.990934,
+        "addr_street": "12 Moore Street"
+    },
+    {
+        "property_id": 54115,
+        "lat": -37.81464386,
+        "lng": 145.0274811,
+        "addr_street": "14 Power Street"
+    },
+    {
+        "property_id": 58214,
+        "lat": -37.824967,
+        "lng": 145.150924,
+        "addr_street": "57 Gardenia Street"
+    },
+    {
+        "property_id": 32861,
+        "lat": -37.753222,
+        "lng": 145.02057,
+        "addr_street": "5 Albert Street"
+    },
+    {
+        "property_id": 34868,
+        "lat": -37.699652,
+        "lng": 145.021445,
+        "addr_street": "4 Elizabeth Court"
+    },
+    {
+        "property_id": 42966,
+        "lat": -37.720815,
+        "lng": 145.080736,
+        "addr_street": "20 Cooley Avenue"
+    },
+    {
+        "property_id": 7115,
+        "lat": -37.792627,
+        "lng": 144.843352,
+        "addr_street": "9 Walter Street"
+    },
+    {
+        "property_id": 24182,
+        "lat": -37.700892,
+        "lng": 144.974894,
+        "addr_street": "22 Denys Street"
+    },
+    {
+        "property_id": 35064,
+        "lat": -37.707809,
+        "lng": 145.019651,
+        "addr_street": "5 Borrie Street"
+    },
+    {
+        "property_id": 28682,
+        "lat": -37.806586,
+        "lng": 144.983868,
+        "addr_street": "7 Langridge Street"
+    },
+    {
+        "property_id": 43618,
+        "lat": -37.71318436,
+        "lng": 145.0911255,
+        "addr_street": "24 Cooinda Crescent"
+    },
+    {
+        "property_id": 69151,
+        "lat": -37.850143,
+        "lng": 145.034874,
+        "addr_street": "40 Somers Avenue"
+    },
+    {
+        "property_id": 28167,
+        "lat": -37.799845,
+        "lng": 144.977361,
+        "addr_street": "20 Greeves Street"
+    },
+    {
+        "property_id": 31203,
+        "lat": -37.75737381,
+        "lng": 144.9854279,
+        "addr_street": "37 Lewis Street"
+    },
+    {
+        "property_id": 3110,
+        "lat": -37.817345,
+        "lng": 144.880605,
+        "addr_street": "22 Castle Street"
+    },
+    {
+        "property_id": 35821,
+        "lat": -37.727847,
+        "lng": 145.03476,
+        "addr_street": "Unit 1/64 Seston Street"
+    },
+    {
+        "property_id": 41424,
+        "lat": -37.749399,
+        "lng": 145.060061,
+        "addr_street": "10 Shirley Grove"
+    },
+    {
+        "property_id": 7023,
+        "lat": -37.780853,
+        "lng": 144.837798,
+        "addr_street": "8 Mellor Street"
+    },
+    {
+        "property_id": 18584,
+        "lat": -37.674028,
+        "lng": 144.925074,
+        "addr_street": "28 Kilmore Crescent"
+    },
+    {
+        "property_id": 6843,
+        "lat": -37.79105759,
+        "lng": 144.8197022,
+        "addr_street": "57 Armstrong Street"
+    },
+    {
+        "property_id": 92720,
+        "lat": -38.007039,
+        "lng": 145.084811,
+        "addr_street": "14 Montgomery Street"
+    },
+    {
+        "property_id": 96569,
+        "lat": -38.00059891,
+        "lng": 145.2570648,
+        "addr_street": "17 William Avenue"
+    },
+    {
+        "property_id": 89637,
+        "lat": -37.952107,
+        "lng": 145.017025,
+        "addr_street": "68 Sandringham Road"
+    },
+    {
+        "property_id": 43844,
+        "lat": -37.710924,
+        "lng": 145.090617,
+        "addr_street": "52 Nepean Street"
+    },
+    {
+        "property_id": 64031,
+        "lat": -37.783272,
+        "lng": 145.295145,
+        "addr_street": "25 Cass Avenue"
+    },
+    {
+        "property_id": 94336,
+        "lat": -37.960039,
+        "lng": 145.083086,
+        "addr_street": "26 Baltusrol Circuit"
+    },
+    {
+        "property_id": 60863,
+        "lat": -37.834005,
+        "lng": 145.184494,
+        "addr_street": "60 Betula Avenue"
+    },
+    {
+        "property_id": 40468,
+        "lat": -37.701746,
+        "lng": 145.078873,
+        "addr_street": "360 Grimshaw Street"
+    },
+    {
+        "property_id": 16825,
+        "lat": -37.708829,
+        "lng": 144.919566,
+        "addr_street": "22 Lewis Street"
+    },
+    {
+        "property_id": 93131,
+        "lat": -37.99326,
+        "lng": 145.081751,
+        "addr_street": "2A Elm Grove"
+    },
+    {
+        "property_id": 13937,
+        "lat": -37.753561,
+        "lng": 144.929099,
+        "addr_street": "17 Vanberg Road"
+    },
+    {
+        "property_id": 29280,
+        "lat": -37.774782,
+        "lng": 145.011185,
+        "addr_street": "112 Victoria Road"
+    },
+    {
+        "property_id": 19227,
+        "lat": -37.674673,
+        "lng": 144.936739,
+        "addr_street": "80 DALLAS DRIVE"
+    },
+    {
+        "property_id": 58456,
+        "lat": -37.827733,
+        "lng": 145.171969,
+        "addr_street": "1/43 Milton Street"
+    },
+    {
+        "property_id": 17490,
+        "lat": -37.713621,
+        "lng": 144.941558,
+        "addr_street": "6 Everitt Street"
+    },
+    {
+        "property_id": 87535,
+        "lat": -37.941157,
+        "lng": 145.001571,
+        "addr_street": "239 Hampton Street"
+    },
+    {
+        "property_id": 80559,
+        "lat": -37.9886322,
+        "lng": 145.1710358,
+        "addr_street": "9 Denbigh Court"
+    },
+    {
+        "property_id": 30578,
+        "lat": -37.75563812,
+        "lng": 145.0131531,
+        "addr_street": "107A Collins Street"
+    },
+    {
+        "property_id": 34088,
+        "lat": -37.721384,
+        "lng": 144.999318,
+        "addr_street": "19 Coleman Crescent"
+    },
+    {
+        "property_id": 92291,
+        "lat": -37.978173,
+        "lng": 145.0813048,
+        "addr_street": "4/61-63 Blackwood Avenue"
+    },
+    {
+        "property_id": 13990,
+        "lat": -37.750601,
+        "lng": 144.92263,
+        "addr_street": "1A Kalimna Street"
+    },
+    {
+        "property_id": 87834,
+        "lat": -37.93094254,
+        "lng": 145.0039215,
+        "addr_street": "580 Hampton Street"
+    },
+    {
+        "property_id": 20859,
+        "lat": -37.760876,
+        "lng": 144.950808,
+        "addr_street": "24 Newman Street"
+    },
+    {
+        "property_id": 78509,
+        "lat": -37.939772,
+        "lng": 145.157875,
+        "addr_street": "10 Amiel Street"
+    },
+    {
+        "property_id": 91079,
+        "lat": -37.968727,
+        "lng": 145.072256,
+        "addr_street": "9 Tilley Street"
+    },
+    {
+        "property_id": 69572,
+        "lat": -37.86706,
+        "lng": 145.11153,
+        "addr_street": "147 Huntingdale Road"
+    },
+    {
+        "property_id": 10312,
+        "lat": -37.792632,
+        "lng": 144.923321,
+        "addr_street": "25 Westbourne Road"
+    },
+    {
+        "property_id": 471,
+        "lat": -37.799785,
+        "lng": 144.892727,
+        "addr_street": "18 Victoria Street"
+    },
+    {
+        "property_id": 37085,
+        "lat": -37.634332,
+        "lng": 145.040398,
+        "addr_street": "22 Chettam Street"
+    },
+    {
+        "property_id": 95250,
+        "lat": -37.900297,
+        "lng": 145.035804,
+        "addr_street": "230 Booran Road"
+    },
+    {
+        "property_id": 10439,
+        "lat": -37.784681,
+        "lng": 144.924758,
+        "addr_street": "34 Illawarra Road"
+    },
+    {
+        "property_id": 51475,
+        "lat": -37.779071,
+        "lng": 145.129411,
+        "addr_street": "49 Winston Drive"
+    },
+    {
+        "property_id": 52878,
+        "lat": -37.820049,
+        "lng": 144.995666,
+        "addr_street": "28 Goodwood Street"
+    },
+    {
+        "property_id": 37734,
+        "lat": -37.631377,
+        "lng": 145.026973,
+        "addr_street": "7 Woodcutters Grove"
+    },
+    {
+        "property_id": 94144,
+        "lat": -38.078141,
+        "lng": 145.122394,
+        "addr_street": "2/662 Nepean Hwy"
+    },
+    {
+        "property_id": 82431,
+        "lat": -37.99440384,
+        "lng": 145.2416229,
+        "addr_street": "8 Tristania Avenue"
+    },
+    {
+        "property_id": 78032,
+        "lat": -37.929813,
+        "lng": 145.204675,
+        "addr_street": "4 Maitland  Close"
+    },
+    {
+        "property_id": 96012,
+        "lat": -37.90632248,
+        "lng": 145.0302582,
+        "addr_street": "6 Bethell Street"
+    },
+    {
+        "property_id": 19746,
+        "lat": -37.674019,
+        "lng": 144.893166,
+        "addr_street": "43 Stonebridge Way (Alanbrae)"
+    },
+    {
+        "property_id": 57674,
+        "lat": -37.825838,
+        "lng": 145.145012,
+        "addr_street": "16 Acacia Avenue"
+    },
+    {
+        "property_id": 31841,
+        "lat": -37.737409,
+        "lng": 145.01077,
+        "addr_street": "13 Pender Street"
+    },
+    {
+        "property_id": 49963,
+        "lat": -37.759735,
+        "lng": 145.089206,
+        "addr_street": "17 Lachlan Grange"
+    },
+    {
+        "property_id": 96580,
+        "lat": -37.998368,
+        "lng": 145.261774,
+        "addr_street": "19 Adam Avenue"
+    },
+    {
+        "property_id": 10900,
+        "lat": -37.797027,
+        "lng": 144.919554,
+        "addr_street": "80 Fairbairn Drive"
+    },
+    {
+        "property_id": 74850,
+        "lat": -37.90568924,
+        "lng": 145.0725555,
+        "addr_street": "23 Reid Street"
+    },
+    {
+        "property_id": 76044,
+        "lat": -37.904709,
+        "lng": 145.091016,
+        "addr_street": "3 Golf Links Avenue"
+    },
+    {
+        "property_id": 35559,
+        "lat": -37.725864,
+        "lng": 144.996861,
+        "addr_street": "76 Powell Street"
+    },
+    {
+        "property_id": 593,
+        "lat": -37.791211,
+        "lng": 144.888661,
+        "addr_street": "209 Ballarat Road"
+    },
+    {
+        "property_id": 61369,
+        "lat": -37.82440948,
+        "lng": 145.2213135,
+        "addr_street": "16 Neville Street"
+    },
+    {
+        "property_id": 44371,
+        "lat": -37.705996,
+        "lng": 145.091467,
+        "addr_street": "16 Santon Street"
+    },
+    {
+        "property_id": 57126,
+        "lat": -37.82952,
+        "lng": 145.073436,
+        "addr_street": "2 Carinda Road"
+    },
+    {
+        "property_id": 70512,
+        "lat": -37.878223,
+        "lng": 145.09495,
+        "addr_street": "13 Thurloo Street"
+    },
+    {
+        "property_id": 66429,
+        "lat": -37.791138,
+        "lng": 145.314153,
+        "addr_street": "47 Cambridge Road"
+    },
+    {
+        "property_id": 24152,
+        "lat": -37.698553,
+        "lng": 144.961965,
+        "addr_street": "20 Disney Street"
+    },
+    {
+        "property_id": 36556,
+        "lat": -37.664934,
+        "lng": 145.028825,
+        "addr_street": "71 Curtin Avenue"
+    },
+    {
+        "property_id": 90391,
+        "lat": -37.962205,
+        "lng": 145.047787,
+        "addr_street": "26 Paul Street"
+    },
+    {
+        "property_id": 64736,
+        "lat": -37.79094696,
+        "lng": 145.2670593,
+        "addr_street": "6 Ryland Avenue"
+    },
+    {
+        "property_id": 96376,
+        "lat": -38.013044,
+        "lng": 145.278311,
+        "addr_street": "1 Kanumbra Court"
+    },
+    {
+        "property_id": 85659,
+        "lat": -37.888686,
+        "lng": 145.012126,
+        "addr_street": "44 Hoddle Street"
+    },
+    {
+        "property_id": 53431,
+        "lat": -37.824311,
+        "lng": 145.003383,
+        "addr_street": "50B Duke Street"
+    },
+    {
+        "property_id": 16546,
+        "lat": -37.711823,
+        "lng": 144.91122,
+        "addr_street": "14 William Street"
+    },
+    {
+        "property_id": 46100,
+        "lat": -37.714001,
+        "lng": 145.12469,
+        "addr_street": "45 Mountain View Road"
+    },
+    {
+        "property_id": 45462,
+        "lat": -37.694063,
+        "lng": 145.101317,
+        "addr_street": "72 Plenty River Drive"
+    },
+    {
+        "property_id": 91180,
+        "lat": -37.983293,
+        "lng": 145.047011,
+        "addr_street": "11 Mariemont Avenue"
+    },
+    {
+        "property_id": 87793,
+        "lat": -37.938036,
+        "lng": 145.011712,
+        "addr_street": "5 Sargood Street"
+    },
+    {
+        "property_id": 31517,
+        "lat": -37.759898,
+        "lng": 145.005946,
+        "addr_street": "87 Clarendon Street"
+    },
+    {
+        "property_id": 78143,
+        "lat": -37.92651,
+        "lng": 145.176724,
+        "addr_street": "5 Juba Court"
+    },
+    {
+        "property_id": 17074,
+        "lat": -37.711907,
+        "lng": 144.934588,
+        "addr_street": "33 Farview Street"
+    },
+    {
+        "property_id": 21180,
+        "lat": -37.762915,
+        "lng": 144.959788,
+        "addr_street": "4 Bryant Street"
+    },
+    {
+        "property_id": 78747,
+        "lat": -37.959479,
+        "lng": 145.148292,
+        "addr_street": "19 Moncur Avenue"
+    },
+    {
+        "property_id": 56543,
+        "lat": -37.852493,
+        "lng": 145.096766,
+        "addr_street": "3 Hastings Street"
+    },
+    {
+        "property_id": 53836,
+        "lat": -37.816003,
+        "lng": 145.004177,
+        "addr_street": "82A Somerset Street"
+    },
+    {
+        "property_id": 18525,
+        "lat": -37.66546249,
+        "lng": 144.9282837,
+        "addr_street": "24 TOORADIN AVENUE"
+    },
+    {
+        "property_id": 83226,
+        "lat": -37.887527,
+        "lng": 145.255778,
+        "addr_street": "51 King Parade"
+    },
+    {
+        "property_id": 77402,
+        "lat": -37.929972,
+        "lng": 145.160684,
+        "addr_street": "11 Bellevue Court"
+    },
+    {
+        "property_id": 51511,
+        "lat": -37.794539,
+        "lng": 145.135776,
+        "addr_street": "5 Teak Court"
+    },
+    {
+        "property_id": 34678,
+        "lat": -37.729797,
+        "lng": 145.033469,
+        "addr_street": "32 Andrews Avenue"
+    },
+    {
+        "property_id": 35541,
+        "lat": -37.713937,
+        "lng": 145.013006,
+        "addr_street": "74 Royal Parade"
+    },
+    {
+        "property_id": 50503,
+        "lat": -37.75380325,
+        "lng": 145.1353455,
+        "addr_street": "2 Carole Street"
+    },
+    {
+        "property_id": 77367,
+        "lat": -37.93527985,
+        "lng": 145.1787415,
+        "addr_street": "1/80 Huxley Ave"
+    },
+    {
+        "property_id": 80515,
+        "lat": -38.002285,
+        "lng": 145.1453095,
+        "addr_street": "8 Illukey Court"
+    },
+    {
+        "property_id": 21318,
+        "lat": -37.765869,
+        "lng": 144.958466,
+        "addr_street": "5 Percy Street"
+    },
+    {
+        "property_id": 61715,
+        "lat": -37.798149,
+        "lng": 145.246618,
+        "addr_street": "3 Fran Court"
+    },
+    {
+        "property_id": 23271,
+        "lat": -37.749776,
+        "lng": 144.977137,
+        "addr_street": "90 Nicholson Street"
+    },
+    {
+        "property_id": 89168,
+        "lat": -37.9482732,
+        "lng": 145.0045801,
+        "addr_street": "12 Station Street"
+    },
+    {
+        "property_id": 48459,
+        "lat": -37.801262,
+        "lng": 145.060498,
+        "addr_street": "43 First Avenue"
+    },
+    {
+        "property_id": 9949,
+        "lat": -37.793478,
+        "lng": 144.925818,
+        "addr_street": "11 Bangalore Street"
+    },
+    {
+        "property_id": 35070,
+        "lat": -37.72841644,
+        "lng": 144.9941254,
+        "addr_street": "5 Crispe Street"
+    },
+    {
+        "property_id": 16147,
+        "lat": -37.698795,
+        "lng": 144.900692,
+        "addr_street": "80 Marigold Crescent"
+    },
+    {
+        "property_id": 60667,
+        "lat": -37.844155,
+        "lng": 145.188531,
+        "addr_street": "3 Howqua Court"
+    },
+    {
+        "property_id": 12328,
+        "lat": -37.70930481,
+        "lng": 144.7747345,
+        "addr_street": "14 Moonlight Terrace"
+    },
+    {
+        "property_id": 5613,
+        "lat": -37.79035187,
+        "lng": 144.8508606,
+        "addr_street": "20 Arthur Street"
+    },
+    {
+        "property_id": 58832,
+        "lat": -37.807886,
+        "lng": 145.168801,
+        "addr_street": "3 Barnsley Street"
+    },
+    {
+        "property_id": 59063,
+        "lat": -37.827125,
+        "lng": 145.177999,
+        "addr_street": "6 Menin Road"
+    },
+    {
+        "property_id": 97099,
+        "lat": -38.016803,
+        "lng": 145.28112,
+        "addr_street": "90 Hinrichsen Drive"
+    },
+    {
+        "property_id": 36825,
+        "lat": -37.649163,
+        "lng": 145.036498,
+        "addr_street": "13 Touhey Avenue"
+    },
+    {
+        "property_id": 90102,
+        "lat": -37.95442581,
+        "lng": 145.0659332,
+        "addr_street": "17 Mayne Street"
+    },
+    {
+        "property_id": 34095,
+        "lat": -37.724728,
+        "lng": 144.99512,
+        "addr_street": "19 Fulham Grove"
+    },
+    {
+        "property_id": 72163,
+        "lat": -37.841065,
+        "lng": 145.260838,
+        "addr_street": "2/2 Harris Grove"
+    },
+    {
+        "property_id": 50030,
+        "lat": -37.762897,
+        "lng": 145.098038,
+        "addr_street": "20 Gisborne Street"
+    },
+    {
+        "property_id": 9604,
+        "lat": -37.853509,
+        "lng": 144.7260537,
+        "addr_street": "6 Spiteri Place"
+    },
+    {
+        "property_id": 53256,
+        "lat": -37.828946,
+        "lng": 145.011897,
+        "addr_street": "40 Parkville Street"
+    },
+    {
+        "property_id": 54443,
+        "lat": -37.834811,
+        "lng": 145.043117,
+        "addr_street": "353 Auburn Road"
+    },
+    {
+        "property_id": 94325,
+        "lat": -37.95465469,
+        "lng": 145.0810547,
+        "addr_street": "22 Carnoustie Parade"
+    },
+    {
+        "property_id": 22895,
+        "lat": -37.747565,
+        "lng": 144.968355,
+        "addr_street": "5 Chambers Street"
+    },
+    {
+        "property_id": 4675,
+        "lat": -37.825002,
+        "lng": 144.870565,
+        "addr_street": "8 Abbott Street"
+    },
+    {
+        "property_id": 78342,
+        "lat": -37.925938,
+        "lng": 145.156032,
+        "addr_street": "71 Highfield Avenue"
+    },
+    {
+        "property_id": 6767,
+        "lat": -37.791705,
+        "lng": 144.840164,
+        "addr_street": "49 Parsons Street"
+    },
+    {
+        "property_id": 59580,
+        "lat": -37.80696,
+        "lng": 145.200614,
+        "addr_street": "2 Sunninghill Court"
+    },
+    {
+        "property_id": 88092,
+        "lat": -37.940493,
+        "lng": 145.046365,
+        "addr_street": "14 Avon Street"
+    },
+    {
+        "property_id": 95311,
+        "lat": -37.914954,
+        "lng": 145.029666,
+        "addr_street": "25 Wright Street"
+    },
+    {
+        "property_id": 46888,
+        "lat": -37.702429,
+        "lng": 145.159102,
+        "addr_street": "22 Zig Zag Road"
+    },
+    {
+        "property_id": 74348,
+        "lat": -37.88048935,
+        "lng": 145.0211639,
+        "addr_street": "4 Hartley Avenue"
+    },
+    {
+        "property_id": 59239,
+        "lat": -37.812596,
+        "lng": 145.213146,
+        "addr_street": "1/3 Warnes Road"
+    },
+    {
+        "property_id": 67881,
+        "lat": -37.839386,
+        "lng": 145.025903,
+        "addr_street": "15a Glen Road"
+    },
+    {
+        "property_id": 69421,
+        "lat": -37.865221,
+        "lng": 145.110856,
+        "addr_street": "10 Maroondah Road"
+    },
+    {
+        "property_id": 62507,
+        "lat": -37.825256,
+        "lng": 145.246506,
+        "addr_street": "11 Leawarra Drive"
+    },
+    {
+        "property_id": 78969,
+        "lat": -37.93781,
+        "lng": 145.172078,
+        "addr_street": "32 Charles Ave"
+    },
+    {
+        "property_id": 19629,
+        "lat": -37.669467,
+        "lng": 144.89586,
+        "addr_street": "2 Maxwell Court"
+    },
+    {
+        "property_id": 50918,
+        "lat": -37.790362,
+        "lng": 145.140567,
+        "addr_street": "18 Rubicon Crescent"
+    },
+    {
+        "property_id": 58673,
+        "lat": -37.829821,
+        "lng": 145.18469,
+        "addr_street": "2 Eugenia Street"
+    },
+    {
+        "property_id": 10366,
+        "lat": -37.794205,
+        "lng": 144.920014,
+        "addr_street": "3 Moylan Lane"
+    },
+    {
+        "property_id": 50550,
+        "lat": -37.756941,
+        "lng": 145.138873,
+        "addr_street": "32 Stradmore Avenue"
+    },
+    {
+        "property_id": 21751,
+        "lat": -37.73259735,
+        "lng": 144.9611206,
+        "addr_street": "10 Lewis Street"
+    },
+    {
+        "property_id": 31703,
+        "lat": -37.74240494,
+        "lng": 145.0198975,
+        "addr_street": "107 Gower Street"
+    },
+    {
+        "property_id": 33499,
+        "lat": -37.716429,
+        "lng": 145.015508,
+        "addr_street": "10 Cuthbert Road"
+    },
+    {
+        "property_id": 96427,
+        "lat": -38.00400543,
+        "lng": 145.258316,
+        "addr_street": "108 Princes Hwy"
+    },
+    {
+        "property_id": 85329,
+        "lat": -37.87767792,
+        "lng": 145.0027313,
+        "addr_street": "188 Glen Eira"
+    },
+    {
+        "property_id": 47640,
+        "lat": -37.709808,
+        "lng": 145.159669,
+        "addr_street": "91 Livingstone Road"
+    },
+    {
+        "property_id": 27574,
+        "lat": -37.596111,
+        "lng": 144.90833,
+        "addr_street": "7 Freshwater Drive"
+    },
+    {
+        "property_id": 76570,
+        "lat": -37.907928,
+        "lng": 145.125527,
+        "addr_street": "14 Koonawarra Street"
+    },
+    {
+        "property_id": 49993,
+        "lat": -37.7784729,
+        "lng": 145.0977325,
+        "addr_street": "19 Marjorie Close"
+    },
+    {
+        "property_id": 34295,
+        "lat": -37.717285,
+        "lng": 144.990432,
+        "addr_street": "21 Lake Street"
+    },
+    {
+        "property_id": 93855,
+        "lat": -38.063902,
+        "lng": 145.124129,
+        "addr_street": "2 Toulon Court"
+    },
+    {
+        "property_id": 16104,
+        "lat": -37.702991,
+        "lng": 144.894488,
+        "addr_street": "5 Lilac Mews"
+    },
+    {
+        "property_id": 8255,
+        "lat": -37.7286644,
+        "lng": 144.7587891,
+        "addr_street": "20 Lyons Ave"
+    },
+    {
+        "property_id": 28883,
+        "lat": -37.801316,
+        "lng": 144.993089,
+        "addr_street": "1A & 1B Studley Street"
+    },
+    {
+        "property_id": 4270,
+        "lat": -37.844822,
+        "lng": 144.865985,
+        "addr_street": "211 Woods Street"
+    },
+    {
+        "property_id": 15306,
+        "lat": -37.735257,
+        "lng": 144.907201,
+        "addr_street": "41 First Avenue"
+    },
+    {
+        "property_id": 56318,
+        "lat": -37.855808,
+        "lng": 145.107375,
+        "addr_street": "2 Chandler Grove"
+    },
+    {
+        "property_id": 37413,
+        "lat": -37.629317,
+        "lng": 145.032255,
+        "addr_street": "4 Ripple Place"
+    },
+    {
+        "property_id": 28438,
+        "lat": -37.806669,
+        "lng": 144.983853,
+        "addr_street": "10 Derby Street"
+    },
+    {
+        "property_id": 66513,
+        "lat": -37.792813,
+        "lng": 145.322365,
+        "addr_street": "55a Dryden Concourse"
+    },
+    {
+        "property_id": 93444,
+        "lat": -38.003582,
+        "lng": 145.086986,
+        "addr_street": "5 Lewis Street"
+    },
+    {
+        "property_id": 22018,
+        "lat": -37.735309,
+        "lng": 144.95446,
+        "addr_street": "15 Kerferd Street"
+    },
+    {
+        "property_id": 56876,
+        "lat": -37.851035,
+        "lng": 145.127297,
+        "addr_street": "7/355 Burwood Highway"
+    },
+    {
+        "property_id": 74740,
+        "lat": -37.904016,
+        "lng": 145.062268,
+        "addr_street": "2 Churchill Close"
+    },
+    {
+        "property_id": 16629,
+        "lat": -37.702958,
+        "lng": 144.908018,
+        "addr_street": "17 Augustine Terrace"
+    },
+    {
+        "property_id": 80670,
+        "lat": -37.98160934,
+        "lng": 145.2153931,
+        "addr_street": "1/60-62 Cleeland Street"
+    },
+    {
+        "property_id": 5110,
+        "lat": -37.86668,
+        "lng": 144.835659,
+        "addr_street": "29 Bayview Street"
+    },
+    {
+        "property_id": 4837,
+        "lat": -37.869151,
+        "lng": 144.832509,
+        "addr_street": "11 Davies Street"
+    },
+    {
+        "property_id": 3982,
+        "lat": -37.820979,
+        "lng": 144.891011,
+        "addr_street": "98 Francis Street"
+    },
+    {
+        "property_id": 27126,
+        "lat": -37.61078644,
+        "lng": 144.9365387,
+        "addr_street": "5 Longtown Court"
+    },
+    {
+        "property_id": 26837,
+        "lat": -37.605315,
+        "lng": 144.913264,
+        "addr_street": "4 Pinehurst Rise"
+    },
+    {
+        "property_id": 65787,
+        "lat": -37.771544,
+        "lng": 145.324896,
+        "addr_street": "15 Coolaroo Court"
+    },
+    {
+        "property_id": 70981,
+        "lat": -37.840721,
+        "lng": 145.222753,
+        "addr_street": "1/12 Juniper Road"
+    },
+    {
+        "property_id": 5720,
+        "lat": -37.77993011,
+        "lng": 144.8526764,
+        "addr_street": "313 Ballarat Road"
+    },
+    {
+        "property_id": 15856,
+        "lat": -37.734365,
+        "lng": 144.878184,
+        "addr_street": "87 Hotham Road"
+    },
+    {
+        "property_id": 31057,
+        "lat": -37.762251,
+        "lng": 145.012992,
+        "addr_street": "280 Victoria Road"
+    },
+    {
+        "property_id": 58508,
+        "lat": -37.810017,
+        "lng": 145.171341,
+        "addr_street": "11 Kendall Street"
+    },
+    {
+        "property_id": 49365,
+        "lat": -37.816439,
+        "lng": 145.070458,
+        "addr_street": "3 Oakdale Avenue"
+    },
+    {
+        "property_id": 21198,
+        "lat": -37.764305,
+        "lng": 144.959779,
+        "addr_street": "4 Lux Way"
+    },
+    {
+        "property_id": 46842,
+        "lat": -37.706845,
+        "lng": 145.1325,
+        "addr_street": "20 Ramptons Road"
+    },
+    {
+        "property_id": 12050,
+        "lat": -37.703698,
+        "lng": 144.743842,
+        "addr_street": "1/3 Lorraine Court"
+    },
+    {
+        "property_id": 54520,
+        "lat": -37.836079,
+        "lng": 145.042295,
+        "addr_street": "420 Auburn Road"
+    },
+    {
+        "property_id": 86988,
+        "lat": -37.894348,
+        "lng": 144.99391,
+        "addr_street": "66 Cole Street"
+    },
+    {
+        "property_id": 73988,
+        "lat": -37.86388779,
+        "lng": 145.292038,
+        "addr_street": "7A Gwyn Crescent"
+    },
+    {
+        "property_id": 20546,
+        "lat": -37.761088,
+        "lng": 144.966478,
+        "addr_street": "145a Albion Street"
+    },
+    {
+        "property_id": 89229,
+        "lat": -37.950779,
+        "lng": 145.006197,
+        "addr_street": "15 Trentham Street"
+    },
+    {
+        "property_id": 26202,
+        "lat": -37.587697,
+        "lng": 144.91902,
+        "addr_street": "27 Burrora Way"
+    },
+    {
+        "property_id": 88439,
+        "lat": -37.949849,
+        "lng": 145.031248,
+        "addr_street": "12 Haynes Street"
+    },
+    {
+        "property_id": 64396,
+        "lat": -37.792677,
+        "lng": 145.301103,
+        "addr_street": "39 Taronga Crescent"
+    },
+    {
+        "property_id": 66057,
+        "lat": -37.76731491,
+        "lng": 145.3248444,
+        "addr_street": "24 Chevalier Crescent"
+    },
+    {
+        "property_id": 77123,
+        "lat": -37.9432869,
+        "lng": 145.1152954,
+        "addr_street": "16 Murphy Street"
+    },
+    {
+        "property_id": 53052,
+        "lat": -37.81674957,
+        "lng": 145.0052643,
+        "addr_street": "322 Highett Street"
+    },
+    {
+        "property_id": 84655,
+        "lat": -37.87881,
+        "lng": 144.991767,
+        "addr_street": "14 Robert Street"
+    },
+    {
+        "property_id": 65416,
+        "lat": -37.800643,
+        "lng": 145.306669,
+        "addr_street": "5/1 Ervin Road"
+    },
+    {
+        "property_id": 64850,
+        "lat": -37.787337,
+        "lng": 145.259335,
+        "addr_street": "74 Strathfield Parade"
+    },
+    {
+        "property_id": 37828,
+        "lat": -37.632367,
+        "lng": 145.026837,
+        "addr_street": "9 Castlemaine Lane."
+    },
+    {
+        "property_id": 20122,
+        "lat": -37.800594,
+        "lng": 144.969619,
+        "addr_street": "261 Rathdowne Street"
+    },
+    {
+        "property_id": 43621,
+        "lat": -37.716445,
+        "lng": 145.079376,
+        "addr_street": "24 Wattle Drive"
+    },
+    {
+        "property_id": 75530,
+        "lat": -37.905283,
+        "lng": 145.060779,
+        "addr_street": "9 Winston Way"
+    },
+    {
+        "property_id": 32959,
+        "lat": -37.735599,
+        "lng": 145.01317,
+        "addr_street": "558 Plenty Road"
+    },
+    {
+        "property_id": 41431,
+        "lat": -37.74530792,
+        "lng": 145.0593872,
+        "addr_street": "10/23 Lower Plenty Road"
+    },
+    {
+        "property_id": 68860,
+        "lat": -37.856237,
+        "lng": 145.040826,
+        "addr_street": "18 Cawkwell Street"
+    },
+    {
+        "property_id": 45567,
+        "lat": -37.716227,
+        "lng": 145.110411,
+        "addr_street": "9 Fricker Avenue"
+    },
+    {
+        "property_id": 3512,
+        "lat": -37.818745,
+        "lng": 144.874078,
+        "addr_street": "41 Freeman Street"
+    },
+    {
+        "property_id": 23686,
+        "lat": -37.65201187,
+        "lng": 144.8979492,
+        "addr_street": "5 Normanby Drive"
+    },
+    {
+        "property_id": 81846,
+        "lat": -37.991172,
+        "lng": 145.237986,
+        "addr_street": "17 BOTTLEBRUSH DVE"
+    },
+    {
+        "property_id": 31315,
+        "lat": -37.7538579,
+        "lng": 145.0066945,
+        "addr_street": "51b Pender Street"
+    },
+    {
+        "property_id": 6533,
+        "lat": -37.781113,
+        "lng": 144.840267,
+        "addr_street": "28 Dulcie Street"
+    },
+    {
+        "property_id": 71107,
+        "lat": -37.85409164,
+        "lng": 145.2209778,
+        "addr_street": "13 Defelice Place"
+    },
+    {
+        "property_id": 82724,
+        "lat": -37.908504,
+        "lng": 145.273363,
+        "addr_street": "3 Mayfield Place"
+    },
+    {
+        "property_id": 58295,
+        "lat": -37.823195,
+        "lng": 145.161619,
+        "addr_street": "7 Gwenda Avenue"
+    },
+    {
+        "property_id": 85794,
+        "lat": -37.884068,
+        "lng": 145.005454,
+        "addr_street": "6A Maysbury Avenue"
+    },
+    {
+        "property_id": 451,
+        "lat": -37.803731,
+        "lng": 144.890617,
+        "addr_street": "18 Alexander Street"
+    },
+    {
+        "property_id": 20957,
+        "lat": -37.7598877,
+        "lng": 144.9684296,
+        "addr_street": "29 Crisp Avenue"
+    },
+    {
+        "property_id": 44095,
+        "lat": -37.700489,
+        "lng": 145.110525,
+        "addr_street": "104 Hume Street"
+    },
+    {
+        "property_id": 80481,
+        "lat": -37.984853,
+        "lng": 145.176056,
+        "addr_street": "72 Wahroonga Avenue"
+    },
+    {
+        "property_id": 92576,
+        "lat": -38.01875305,
+        "lng": 145.0992584,
+        "addr_street": "10 Helm Street"
+    },
+    {
+        "property_id": 65862,
+        "lat": -37.786171,
+        "lng": 145.308619,
+        "addr_street": "17 Felix Grove"
+    },
+    {
+        "property_id": 93495,
+        "lat": -37.98934555,
+        "lng": 145.0796967,
+        "addr_street": "55 Bethell Avenue"
+    },
+    {
+        "property_id": 45445,
+        "lat": -37.69147491,
+        "lng": 145.0940857,
+        "addr_street": "7 Senbin Court"
+    },
+    {
+        "property_id": 68703,
+        "lat": -37.864847,
+        "lng": 145.029369,
+        "addr_street": "1 Chandlers Road"
+    },
+    {
+        "property_id": 61344,
+        "lat": -37.780513,
+        "lng": 145.251059,
+        "addr_street": "155 Plymouth Road"
+    },
+    {
+        "property_id": 74273,
+        "lat": -37.884983,
+        "lng": 145.033612,
+        "addr_street": "193 Kambrook Road"
+    },
+    {
+        "property_id": 44249,
+        "lat": -37.708577,
+        "lng": 145.096542,
+        "addr_street": "132 Nell Street"
+    },
+    {
+        "property_id": 72259,
+        "lat": -37.84675598,
+        "lng": 145.2644959,
+        "addr_street": "29 John Street"
+    },
+    {
+        "property_id": 42249,
+        "lat": -37.75935,
+        "lng": 145.064026,
+        "addr_street": "43 Hawdon Street"
+    },
+    {
+        "property_id": 66780,
+        "lat": -37.7617149,
+        "lng": 145.3183025,
+        "addr_street": "94 Partridge Way"
+    },
+    {
+        "property_id": 31104,
+        "lat": -37.761033,
+        "lng": 145.0255652,
+        "addr_street": "304 Gooch Street"
+    },
+    {
+        "property_id": 2175,
+        "lat": -37.785395,
+        "lng": 144.883372,
+        "addr_street": "33 Rosamond Road"
+    },
+    {
+        "property_id": 78968,
+        "lat": -37.947816,
+        "lng": 145.156294,
+        "addr_street": "32  Virginia St"
+    },
+    {
+        "property_id": 75234,
+        "lat": -37.885202,
+        "lng": 145.048198,
+        "addr_street": "5 Holywood Grove"
+    },
+    {
+        "property_id": 16817,
+        "lat": -37.7142796,
+        "lng": 144.9346247,
+        "addr_street": "22 Freeman Drive"
+    },
+    {
+        "property_id": 81932,
+        "lat": -37.994994,
+        "lng": 145.248315,
+        "addr_street": "20 Eumemmerring Drive"
+    },
+    {
+        "property_id": 29953,
+        "lat": -37.773467,
+        "lng": 145.004094,
+        "addr_street": "34 Andrew Street"
+    },
+    {
+        "property_id": 37455,
+        "lat": -37.644336,
+        "lng": 145.045825,
+        "addr_street": "45 Severn Street"
+    },
+    {
+        "property_id": 93553,
+        "lat": -37.986727,
+        "lng": 145.071025,
+        "addr_street": "6 Princes Court"
+    },
+    {
+        "property_id": 47398,
+        "lat": -37.704091,
+        "lng": 145.147249,
+        "addr_street": "62 Sherbrooke Street"
+    },
+    {
+        "property_id": 20275,
+        "lat": -37.762964,
+        "lng": 144.964172,
+        "addr_street": "1 Eckersall Street"
+    },
+    {
+        "property_id": 67959,
+        "lat": -37.84122849,
+        "lng": 145.0230103,
+        "addr_street": "207A Kooyong Road"
+    },
+    {
+        "property_id": 80883,
+        "lat": -37.96867752,
+        "lng": 145.217453,
+        "addr_street": "17 Boyd Street"
+    },
+    {
+        "property_id": 37229,
+        "lat": -37.651784,
+        "lng": 145.026441,
+        "addr_street": "3 Howard Street"
+    },
+    {
+        "property_id": 65482,
+        "lat": -37.805641,
+        "lng": 145.306604,
+        "addr_street": "7 Byron Road"
+    },
+    {
+        "property_id": 68894,
+        "lat": -37.871408,
+        "lng": 145.036249,
+        "addr_street": "1B Ewart Street"
+    },
+    {
+        "property_id": 33750,
+        "lat": -37.70884323,
+        "lng": 145.0188446,
+        "addr_street": "128 Rathcown Road"
+    },
+    {
+        "property_id": 41326,
+        "lat": -37.69746,
+        "lng": 145.046315,
+        "addr_street": "98 Arthur Street"
+    },
+    {
+        "property_id": 62860,
+        "lat": -37.829204,
+        "lng": 145.23239,
+        "addr_street": "32 Daisy Street"
+    },
+    {
+        "property_id": 61772,
+        "lat": -37.793822,
+        "lng": 145.254768,
+        "addr_street": "30 Highland Boulevard"
+    },
+    {
+        "property_id": 65147,
+        "lat": -37.807786,
+        "lng": 145.303398,
+        "addr_street": "15 Natanya Way"
+    },
+    {
+        "property_id": 86124,
+        "lat": -37.899741,
+        "lng": 145.003777,
+        "addr_street": "138 North Road"
+    },
+    {
+        "property_id": 50175,
+        "lat": -37.774885,
+        "lng": 145.097256,
+        "addr_street": "34 Prospect Road"
+    },
+    {
+        "property_id": 86463,
+        "lat": -37.885978,
+        "lng": 144.998245,
+        "addr_street": "28 Nepean Highway"
+    },
+    {
+        "property_id": 94250,
+        "lat": -38.073307,
+        "lng": 145.13198,
+        "addr_street": "88 McLeod Road"
+    },
+    {
+        "property_id": 46335,
+        "lat": -37.71487045,
+        "lng": 145.1644745,
+        "addr_street": "1 Marlow Place"
+    },
+    {
+        "property_id": 87870,
+        "lat": -37.94078827,
+        "lng": 145.0111389,
+        "addr_street": "60 Service Street"
+    },
+    {
+        "property_id": 65312,
+        "lat": -37.806038,
+        "lng": 145.303329,
+        "addr_street": "32 Landstrom Quadrant"
+    },
+    {
+        "property_id": 77280,
+        "lat": -37.93471146,
+        "lng": 145.1049652,
+        "addr_street": "6 Wayne Court"
+    },
+    {
+        "property_id": 28679,
+        "lat": -37.800227,
+        "lng": 144.990715,
+        "addr_street": "69 Harmsworth Street"
+    },
+    {
+        "property_id": 87994,
+        "lat": -37.929976,
+        "lng": 144.999422,
+        "addr_street": "9 Margarita Street"
+    },
+    {
+        "property_id": 37495,
+        "lat": -37.639641,
+        "lng": 145.05578,
+        "addr_street": "5 Ferraro Close"
+    },
+    {
+        "property_id": 33971,
+        "lat": -37.723794,
+        "lng": 145.001366,
+        "addr_street": "169 Spring Street"
+    },
+    {
+        "property_id": 67801,
+        "lat": -37.845044,
+        "lng": 145.006139,
+        "addr_street": "1 Ellerslie Place"
+    },
+    {
+        "property_id": 15086,
+        "lat": -37.736937,
+        "lng": 144.923965,
+        "addr_street": "20 Collegian Avenue"
+    },
+    {
+        "property_id": 28005,
+        "lat": -37.57965851,
+        "lng": 144.9298401,
+        "addr_street": "Lot 3330 Hyde Park Avenue"
+    },
+    {
+        "property_id": 48255,
+        "lat": -37.808528,
+        "lng": 145.031238,
+        "addr_street": "3 Queen Street"
+    },
+    {
+        "property_id": 23307,
+        "lat": -37.64505,
+        "lng": 144.895119,
+        "addr_street": "1 Clanranald Way"
+    },
+    {
+        "property_id": 39385,
+        "lat": -37.696567,
+        "lng": 145.043769,
+        "addr_street": "10 Mersey Street"
+    },
+    {
+        "property_id": 60620,
+        "lat": -37.843087,
+        "lng": 145.188244,
+        "addr_street": "24 Timbertop Drive"
+    },
+    {
+        "property_id": 93164,
+        "lat": -38.001919,
+        "lng": 145.098976,
+        "addr_street": "3 Reckless Lane"
+    },
+    {
+        "property_id": 7026,
+        "lat": -37.78029,
+        "lng": 144.84596,
+        "addr_street": "8 Norge Street"
+    },
+    {
+        "property_id": 12770,
+        "lat": -37.710642,
+        "lng": 144.772949,
+        "addr_street": "25 Marlock Way"
+    },
+    {
+        "property_id": 18390,
+        "lat": -37.673184,
+        "lng": 144.928054,
+        "addr_street": "2 Nhill Court"
+    },
+    {
+        "property_id": 34292,
+        "lat": -37.71992,
+        "lng": 145.014413,
+        "addr_street": "21 Howard Street"
+    },
+    {
+        "property_id": 93220,
+        "lat": -37.995627,
+        "lng": 145.088435,
+        "addr_street": "32 Davey Street"
+    },
+    {
+        "property_id": 32232,
+        "lat": -37.733132,
+        "lng": 145.011917,
+        "addr_street": "20 Goldsmith Avenue"
+    },
+    {
+        "property_id": 45455,
+        "lat": -37.689071,
+        "lng": 145.095231,
+        "addr_street": "7 Wanbanna Avenue"
+    },
+    {
+        "property_id": 48951,
+        "lat": -37.80838013,
+        "lng": 145.0753632,
+        "addr_street": "117 Gordon Street"
+    },
+    {
+        "property_id": 21611,
+        "lat": -37.75869751,
+        "lng": 144.9569397,
+        "addr_street": "88 Tinning Street"
+    },
+    {
+        "property_id": 57396,
+        "lat": -37.831065,
+        "lng": 145.076661,
+        "addr_street": "7 Alta Street"
+    },
+    {
+        "property_id": 63332,
+        "lat": -37.784575,
+        "lng": 145.285094,
+        "addr_street": "10 Clement Crescent"
+    },
+    {
+        "property_id": 62390,
+        "lat": -37.811961,
+        "lng": 145.225789,
+        "addr_street": "9 Nelson Street"
+    },
+    {
+        "property_id": 72525,
+        "lat": -37.841518,
+        "lng": 145.253009,
+        "addr_street": "61 Suffern Avenue"
+    },
+    {
+        "property_id": 77626,
+        "lat": -37.921236,
+        "lng": 145.16726,
+        "addr_street": "2 Danube Place"
+    },
+    {
+        "property_id": 40618,
+        "lat": -37.683977,
+        "lng": 145.059852,
+        "addr_street": "41 Carbeen Drive"
+    },
+    {
+        "property_id": 92747,
+        "lat": -37.986066,
+        "lng": 145.091385,
+        "addr_street": "15 Margaret Street"
+    },
+    {
+        "property_id": 80532,
+        "lat": -37.988044,
+        "lng": 145.181827,
+        "addr_street": "8 York Court"
+    }
+]

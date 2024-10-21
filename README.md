@@ -45,6 +45,7 @@ Overall, this project highlights a robust approach to turning heterogeneous and 
 📦 VIC-housing-data-pipeline
 ├─ LICENSE
 ├─ README.md
+├─ requirements.txt
 ├─ data
 │  ├─ input
 │  │  ├─ Lga_to_suburb.pdf

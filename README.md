@@ -1,6 +1,6 @@
 # Victorian Housing Data Integration and Transformation for Predictive Analysis
 
-![VIC-housing-data-pipeline](images\VIC-housing-data-pipeline.png)
+![VIC-housing-data-pipeline](images/VIC-housing-data-pipeline.png)
 
 ## Project Description
 

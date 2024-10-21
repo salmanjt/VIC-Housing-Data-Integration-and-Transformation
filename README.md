@@ -31,7 +31,7 @@ Assessing the impact of different data transformation techniques on linear regre
 
 Overall, this project highlights a robust approach to turning heterogeneous and unstructured data into a cohesive dataset suitable for downstream analysis, providing a strong foundation for real estate market analysis and urban planning efforts.
 
-## Technologies Used
+## Tools & Technologies
 
 -   Python (Pandas, NumPy)
 -   Geospatial Analysis (GeoPandas, Shapely, Folium)

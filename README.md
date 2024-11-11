@@ -1,7 +1,5 @@
 # Victorian Housing Data Integration and Transformation for Predictive Analysis
 
-![VIC-housing-data-pipeline](images/VIC-housing-data-pipeline.png)
-
 ## Project Description
 
 This project focuses on integrating and transforming diverse datasets related to housing in Victoria, Australia. The primary objective is to create a unified dataset by merging data from multiple sources such as XML, JSON, shapefiles, GTFS data, PDFs and web-scraped information. This unified dataset facilitates comprehensive data analysis, trend identification and machine learning applications in the real estate domain.
